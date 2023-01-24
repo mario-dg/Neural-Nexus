@@ -1,7 +1,7 @@
 \documentclass[runningheads]{llncs}
 \usepackage{biblatex} %Imports biblatex package
 \usepackage{Packages}
-\addbibresource{Quellen.bib} %Import the bibliography file
+\addbibresource{references.bib} %Import the bibliography file
 
 \begin{document}
 %
@@ -11,13 +11,13 @@
 % If the paper title is too long for the running head, you can set
 % an abbreviated paper title here
 %
-\author{Kjell Binici}
+\author{Mario da Graca}
 %
-\authorrunning{K. Binici}
+\authorrunning{M. da Graca}
 % First names are abbreviated in the running head.
 % If there are more than two authors, 'et al.' is used.
 %
-\institute{Hochschule für angewandte Wissenschaften Hamburg (HAW Hamburg)\\
+\institute{University of Applied Sciences Hamburg (HAW Hamburg)\\
 Berliner Tor 5, 20999 Hamburg\\
 }
 %
@@ -27,16 +27,13 @@ Berliner Tor 5, 20999 Hamburg\\
 Trotz der Allgegenwärtigkeit von Zeitreihen, mangelt es für die Anwendung von Machine Learning Verfahren häufig an der nötigen Menge und Qualität, um zufriedenstellende Ergebnisse für Klassifikations, Forecastings oder Anomaly-Detection Problemstellungen zu erhalten. Die Generierung von synthetischen Zeitreihendaten soll diesem Problem Abhilfe schaffen. TimeGAN ist dabei ein generatives Modell, welches eindrucksvolle Ergebnisse erzielt, indem es die möglicherweise komplexen multivariate Charakteristiken einer Zeitreihe mithilfe eines Autoencoders reduziert und durch ein Generative Adversarial Networks (GAN) neue Daten generiert. GANs bestehen im grundlegenden aus zwei kontrahierenden neuronalen Netzen - dem Diskriminator und dem Generator. In einem an die Spieltheorie angelehnten Nullsummenspiel versucht der Generator den Diskriminator zu täuschen, indem er Daten generiert, die der Diskriminator nicht von realen Trainingsdaten unterscheiden kann.
 Diese Arbeit soll ein tiefgehendes Verständnis über GANs, sowie dessen Anwendung auf Zeitreihendaten durch die Verwendung von TimeGAN, schaffen, um als Grundlage für zukünftige Arbeiten dienen zu können. Dazu wird der Aufbau, der mathematische Hintergrund und der Trainingsprozess des GAN-Frameworks beschrieben und im Speziellen auf das Trainingsschema des TimeGAN Modells eingegangen. Damit zukünftig generierte Zeitreihen bewertet werden können, werden außerdem Evaluationsmöglichkeiten durch qualitative und quantitative Methoden vorgestellt.
 
-\keywords{Generative Adversarial Networks \and TimeGAN \and Generative Modelle}
+\keywords{Reinforcement Learning \and Curriculum Learning \and Unity ML-Agents}
 \end{abstract}
 %
 %
 %
 
-\input{Kapitel/Einleitung.tex}
-\input{Kapitel/GenerativeAdverserialNetwork.tex}
-\input{Kapitel/TimeGAN.tex}
-\input{Kapitel/Zusammenfassung.tex}
+\input{chapters/introduction}
 
 
 %
