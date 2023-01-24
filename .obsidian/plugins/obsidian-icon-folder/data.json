@@ -1,0 +1,31 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RiFilePaperFill",
+      "SiBlueprint",
+      "FasArrowRotateLeft",
+      "FasNetworkWired",
+      "FasMagnifyingGlass"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    }
+  },
+  "Semester 1": "FasFolder",
+  "Semester 1/AFR": "FasRobot",
+  "Semester 1/DA": "IbGraphLineUp",
+  "Semester 1/FW1": "FasMagnifyingGlass",
+  "Semester 1/ML": "FasNetworkWired",
+  "Semester 1/RL": "FasArrowRotateLeft",
+  "Templates": "SiBlueprint",
+  "Thesis": "RiFilePaperFill"
+}
