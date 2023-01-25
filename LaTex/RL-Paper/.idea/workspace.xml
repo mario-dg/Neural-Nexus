@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ac0a43c-be9f-41e9-8b08-d7a41d15f2b5" name="Changes" comment="Added RL paper">
-      <change afterPath="$PROJECT_DIR$/.idea/RL-Paper.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapters/basics.tex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages.sty" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RL.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapters/introduction.tex" beforeDir="false" afterPath="$PROJECT_DIR$/chapters/introduction.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/references.bib" beforeDir="false" afterPath="$PROJECT_DIR$/references.bib" afterDir="false" />
-    </list>
+    <list default="true" id="2ac0a43c-be9f-41e9-8b08-d7a41d15f2b5" name="Changes" comment="Added RL paper" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
