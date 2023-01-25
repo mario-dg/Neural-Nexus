@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2022)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: splncs04.bst
+Database file #1: references.bib
+Warning--empty booktitle in Haas2014AHO
+Warning--empty journal in narvekar_learning_2018
+Warning--empty journal in schulman_proximal_2017
+You've used 6 entries,
+            2850 wiz_defined-function locations,
+            634 strings with 5702 characters,
+and the built_in function-call counts, 3224 in all, are:
+= -- 240
+> -- 127
+< -- 2
++ -- 53
+- -- 46
+* -- 230
+:= -- 434
+add.period$ -- 5
+call.type$ -- 6
+change.case$ -- 43
+chr.to.int$ -- 0
+cite$ -- 9
+duplicate$ -- 291
+empty$ -- 280
+format.name$ -- 51
+if$ -- 667
+int.to.chr$ -- 0
+int.to.str$ -- 6
+missing$ -- 65
+newline$ -- 24
+num.names$ -- 12
+pop$ -- 127
+preamble$ -- 1
+purify$ -- 35
+quote$ -- 0
+skip$ -- 66
+stack$ -- 0
+substring$ -- 143
+swap$ -- 141
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 22
+warning$ -- 3
+while$ -- 21
+width$ -- 7
+write$ -- 65
+(There were 3 warnings)
