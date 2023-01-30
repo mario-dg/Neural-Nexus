@@ -1,6 +1,7 @@
 %! Author = mario
 %! Date = 30.01.2023
 
+
 \section{Game Implementation}\label{sec:game-implementation}
 
 \subsection{Game board}\label{subsec:game-board}
@@ -24,3 +25,16 @@ the labyrinth.
 \end{figure}
 
 \subsection{Unity game board}\label{subsec:unity-game-board}
+To closely approximate the movement and behavior of the marble in this physics based skill game,
+Unity's built-in physics engine (PhysX3).
+This system provides several components that can be attached to game objects, to ensure specific behaviors.
+A game object in Unity defines the base for any entity in the given scene.
+\begin{enumerate}
+    \item{Collider3D}: The Collider3D component can be added to any game object, either static or dynamic, to simulate the contact points of hard surfaces, like the marble or the game board.
+    The shape is usually defined by or similar to the actual 3D model.
+    This component can serve two purposes.
+    It either behaves like a collider mentioned above or, if specified by a flag, only acts as a trigger, meaning it's not bouncing off other game objects.
+    Instead it sends out a trigger signal.
+    \item{Rigidbody3D}: To add game objects to the physics simulation that are affected by gravity, the Rigidbody3D component with the associated flag can be added to game objects with a Collider3D.
+\end{enumerate}
+With these two simple components and a C# script the controls and gameplay can be simulated.
