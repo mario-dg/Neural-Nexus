@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.9)  30 JAN 2023 12:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.9)  30 JAN 2023 13:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -230,9 +230,13 @@ e_implementation.tex
 <images/wooden_game_board.png, id=13, 472.01344pt x 405.01312pt>
 File: images/wooden_game_board.png Graphic file (type png)
 <use images/wooden_game_board.png>
-Package pdftex.def Info: images/wooden_game_board.png  used on input line 9.
+Package pdftex.def Info: images/wooden_game_board.png  used on input line 21.
 (pdftex.def)             Requested size: 260.34265pt x 223.38824pt.
-) [2 <./images/wooden_game_board.png>]
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [2] [3 <./images/wooden_game_board.png>]
 (C:/Users/mario/Documents/Master/master-haw/LaTex/RL-Paper/out/main.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 15--18
 []\OT1/cmr/m/n/9 Narvekar, S., Stone, P.: Learn-ing Cur-ricu-lum Poli-cies for 
@@ -245,17 +249,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--18
 ,
  []
 
-) [3
+
+Underfull \hbox (badness 1629) in paragraph at lines 20--24
+\OT1/cmr/m/n/9 skill im-prove-ment toys for kids (un-known), https://shopee.com
+.my/Wooden-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--24
+\OT1/cmr/m/n/9 Labyrinth-Puzzle-Maze-Game-36-Pass-Balance-Board-Educational-Ski
+ll-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--24
+\OT1/cmr/m/n/9 Improvement-Toys-for-Kids-i.82073268.2508203260, [On-line; ac-ce
+ssed Jan-uary
+ []
+
+) [4
 
 ] (C:/Users/mario/Documents/Master/master-haw/LaTex/RL-Paper/out/main.aux) ) 
 Here is how much of TeX's memory you used:
- 1803 strings out of 474971
- 29073 string characters out of 5780121
- 384068 words of memory out of 5000000
- 23322 multiletter control sequences out of 15000+600000
+ 1804 strings out of 474971
+ 29087 string characters out of 5780121
+ 384071 words of memory out of 5000000
+ 23323 multiletter control sequences out of 15000+600000
  472073 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,6n,62p,248b,229s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 55i,6n,62p,248b,235s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:
 /texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/
 2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2022/texm
@@ -265,10 +287,10 @@ public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmr9.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 sl9.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb>
 Output written on C:/Users/mario/Documents/Master/master-haw/LaTex/RL-Paper/out
-/main.pdf (3 pages, 2421031 bytes).
+/main.pdf (4 pages, 2423477 bytes).
 PDF statistics:
- 53 PDF objects out of 1000 (max. 8388607)
- 31 compressed objects within 1 object stream
+ 56 PDF objects out of 1000 (max. 8388607)
+ 33 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
