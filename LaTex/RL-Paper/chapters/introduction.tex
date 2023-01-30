@@ -9,20 +9,12 @@ by maximizing a reward signal.
 It is a method for an agent to learn how to behave in a given situation by executing specific
 actions and watching the rewards that the environment provides.\\
 ML and RL are widely used in a range of applications, such as robotics, autonomous vehicles, finance, healthcare and games.
-This report explores Reinforcement Learning in the latter one, by creating a complex and agility focused maze environment,
+This report explores Reinforcement Learning in the latter one, by creating a complex and agility focused labyrinth environment,
 that an agent has to successfully solve.
 With the help of Unity's ML-Agents~\cite{juliani2020} a model is trained using the standard Reinforcement Learning and Curriculum Learning~\cite{narvekar_learning_2018} approach.
-There are several goals defined for this project:
-\begin{enumerate}
-    \item Recreate the original wooden board game in Unity and set up the environment for training an agent.
-    \item Train the agent on the whole maze and try to find the best performing set of hyperparameters and rewards to successfully
-    follow the game-rule given path to the end, without falling into a hole and thus restarting the game.
-    \item Train the agent using Curriculum Learning, where the agent starts of in an easier environment whose difficulty increases on successful completions.
-    For this approach the environment has to be slightly modified compared to the previous task.
-    \item Evaluate the performance of the agent on both tasks using the best set of hyperparameters found.
-\end{enumerate}
-The following chapter will explain basic concepts of Reinforcement Learning, Curriculum Learning and describes an overview
-of important principles used in developing the application.
-Chapter 3 goes into detail describing the environment setup, reward engineering process, agent configuration as well as metrics used
-to analyze the agent's performance.
-Finally the process and results are discussed to give an educated evaluation of the achievements and further optimizations.
+The goal of this project was to explore the process of an agent learning a fine motor task.
+The following chapter will explain the setup of the board game in real life and as a game in the Unity engine~\cite{Haas2014AHO} to lay the grounds
+for the third chapter, where the reinforcement learning aspects of this project are described.
+The focus is on the environment and training setup, as well as the reward engineering.
+In chapter four the used metrics are discussed and the results presented, in order to give a qualified statement in chapter five
+about the performances and show where the process can be improved.

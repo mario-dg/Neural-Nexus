@@ -14,7 +14,7 @@
 
 \begin{document}
 %
-    \title{Solving an agility maze using Reinforcement Learning with Unity ML-Agents and Curriculum Learning}
+    \title{Solving a skill labyrinth using Reinforcement Learning with Unity ML-Agents and Curriculum Learning}
 %
     \titlerunning{Comparing RL and Curriculum Learning using ML-Agents}
 % If the paper title is too long for the running head, you can set
@@ -38,8 +38,8 @@
     \maketitle              % typeset the header of the contribution
 %
     \begin{abstract}
-        This project report examines curriculum learning in Unity ML-Agents using a 3D agility maze task as an example.
-        The task involves tilting the board on two axes to guide a marble through a maze, filled with walls and holes, through which the agent must steer the marble in order to follow the correct path and reach the end.
+        This project report examines curriculum learning in Unity ML-Agents using a 3D skill labyrinth as an example.
+        The task involves tilting the board on two axes to guide a marble through a labyrinth, filled with walls and holes, through which the agent must steer the marble in order to follow the correct path and reach the end.
         The agent's performance was evaluated using two different approaches: standard reinforcement learning and curriculum learning.
         Curriculum learning involves starting the agent with simpler sub-tasks, and gradually increasing the difficulty over time.
         The paper covers the technical details of the project, including setup of the environment, tuning of parameters, reward engineering and performance analysis of the trained agent.
@@ -48,6 +48,9 @@
     \end{abstract}
 
     \input{chapters/introduction}
+
+    \input{chapters/game_implementation}
+
 
     \clearpage
     \bibliographystyle{splncs04}

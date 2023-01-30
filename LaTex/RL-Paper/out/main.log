@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.9)  29 JAN 2023 17:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.9)  30 JAN 2023 12:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -223,61 +223,39 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 38.
 
-(./chapters/introduction.tex [1
+(./chapters/introduction.tex) [1
 
-{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./chapters/ba
-sics.tex [2]) [3]
+{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./chapters/gam
+e_implementation.tex
+<images/wooden_game_board.png, id=13, 472.01344pt x 405.01312pt>
+File: images/wooden_game_board.png Graphic file (type png)
+<use images/wooden_game_board.png>
+Package pdftex.def Info: images/wooden_game_board.png  used on input line 9.
+(pdftex.def)             Requested size: 260.34265pt x 223.38824pt.
+) [2 <./images/wooden_game_board.png>]
 (C:/Users/mario/Documents/Master/master-haw/LaTex/RL-Paper/out/main.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 15--19
-[]\OT1/cmr/m/n/9 Konda, V.R., Tsit-sik-lis, J.N.: OnActor-Critic Al-go-rithms.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--19
-\OT1/cmr/m/n/9 SIAM Jour-nal on Con-trol and Op-ti-miza-tion \OT1/cmr/bx/n/9 42
-\OT1/cmr/m/n/9 (4), 1143--
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--19
-\OT1/cmr/m/n/9 1166 (Jan 2003). https://doi.org/10.1137/S0363012901385691,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--24
+Underfull \hbox (badness 10000) in paragraph at lines 15--18
 []\OT1/cmr/m/n/9 Narvekar, S., Stone, P.: Learn-ing Cur-ricu-lum Poli-cies for 
 Re-in-force-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--24
+Underfull \hbox (badness 10000) in paragraph at lines 15--18
 \OT1/cmr/m/n/9 ment Learn-ing (2018). https://doi.org/10.48550/ARXIV.1812.00285
 ,
  []
 
-
-Underfull \hbox (badness 1038) in paragraph at lines 26--29
-[]\OT1/cmr/m/n/9 Schulman, J., Wol-ski, F., Dhari-wal, P., Rad-ford, A., Klimov
-, O.: Prox-i-mal
- []
-
-
-Underfull \hbox (badness 1033) in paragraph at lines 26--29
-\OT1/cmr/m/n/9 Pol-icy Op-ti-miza-tion Al-go-rithms (Aug 2017), http://arxiv.or
-g/abs/1707.06347,
- []
-
-) [4
+) [3
 
 ] (C:/Users/mario/Documents/Master/master-haw/LaTex/RL-Paper/out/main.aux) ) 
 Here is how much of TeX's memory you used:
- 1794 strings out of 474971
- 28765 string characters out of 5780121
- 385089 words of memory out of 5000000
- 23316 multiletter control sequences out of 15000+600000
+ 1803 strings out of 474971
+ 29073 string characters out of 5780121
+ 384068 words of memory out of 5000000
+ 23322 multiletter control sequences out of 15000+600000
  472073 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,6n,62p,248b,189s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 55i,6n,62p,248b,229s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:
 /texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/
 2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2022/texm
@@ -287,10 +265,10 @@ public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmr9.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 sl9.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb>
 Output written on C:/Users/mario/Documents/Master/master-haw/LaTex/RL-Paper/out
-/main.pdf (4 pages, 112933 bytes).
+/main.pdf (3 pages, 2421031 bytes).
 PDF statistics:
  53 PDF objects out of 1000 (max. 8388607)
- 32 compressed objects within 1 object stream
+ 31 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

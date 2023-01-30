@@ -11,25 +11,9 @@ Juliani, A., Berges, V.P., Teng, E., Cohen, A., Harper, J., Elion, C., Goy, C.,
   Gao, Y., Henry, H., Mattar, M., Lange, D.: Unity: A general platform for
   intelligent agents. arXiv preprint arXiv:1809.02627  (2020)
 
-\bibitem{konda_onactor-critic_2003}
-Konda, V.R., Tsitsiklis, J.N.: {OnActor}-{Critic} {Algorithms}. SIAM Journal on
-  Control and Optimization  \textbf{42}(4),  1143--1166 (Jan 2003).
-  \doi{10.1137/S0363012901385691},
-  \url{http://epubs.siam.org/doi/10.1137/S0363012901385691}
-
 \bibitem{narvekar_learning_2018}
 Narvekar, S., Stone, P.: Learning {Curriculum} {Policies} for {Reinforcement}
   {Learning}  (2018). \doi{10.48550/ARXIV.1812.00285},
   \url{https://arxiv.org/abs/1812.00285}, publisher: arXiv Version Number: 1
-
-\bibitem{schulman_proximal_2017}
-Schulman, J., Wolski, F., Dhariwal, P., Radford, A., Klimov, O.: Proximal
-  {Policy} {Optimization} {Algorithms}  (Aug 2017),
-  \url{http://arxiv.org/abs/1707.06347}, arXiv:1707.06347 [cs]
-
-\bibitem{sutton_reinforcement_2018}
-Sutton, R.S., Barto, A.G.: Reinforcement learning: an introduction. Adaptive
-  computation and machine learning series, The MIT Press, Cambridge,
-  Massachusetts, second edition edn. (2018)
 
 \end{thebibliography}
