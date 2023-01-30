@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.9)  25 JAN 2023 20:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.9)  29 JAN 2023 17:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -178,7 +178,7 @@ File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count289
 \l__pdf_internal_box=\box98
 )
-(C:/Users/mario/Documents/Master/master-haw/RL-Paper/out/main.aux)
+(C:/Users/mario/Documents/Master/master-haw/LaTex/RL-Paper/out/main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
@@ -227,7 +227,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./chapters/ba
 sics.tex [2]) [3]
-(C:/Users/mario/Documents/Master/master-haw/RL-Paper/out/main.bbl
+(C:/Users/mario/Documents/Master/master-haw/LaTex/RL-Paper/out/main.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 15--19
 []\OT1/cmr/m/n/9 Konda, V.R., Tsit-sik-lis, J.N.: OnActor-Critic Al-go-rithms.
  []
@@ -269,25 +269,25 @@ g/abs/1707.06347,
 
 ) [4
 
-] (C:/Users/mario/Documents/Master/master-haw/RL-Paper/out/main.aux) ) 
+] (C:/Users/mario/Documents/Master/master-haw/LaTex/RL-Paper/out/main.aux) ) 
 Here is how much of TeX's memory you used:
  1794 strings out of 474971
- 28711 string characters out of 5780121
+ 28765 string characters out of 5780121
  385089 words of memory out of 5000000
  23316 multiletter control sequences out of 15000+600000
  472073 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,6n,62p,248b,189s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{c:/texli
-ve/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2022/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2022/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmbx9.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmr9.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl9.pf
-b><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb>
-Output written on C:/Users/mario/Documents/Master/master-haw/RL-Paper/out/main.
-pdf (4 pages, 112594 bytes).
+{c:
+/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/
+2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2022/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmbx9.pfb><c:/texlive/2022/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr9.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sl9.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb>
+Output written on C:/Users/mario/Documents/Master/master-haw/LaTex/RL-Paper/out
+/main.pdf (4 pages, 112933 bytes).
 PDF statistics:
  53 PDF objects out of 1000 (max. 8388607)
  32 compressed objects within 1 object stream
