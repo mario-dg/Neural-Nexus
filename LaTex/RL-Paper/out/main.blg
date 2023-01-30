@@ -3,12 +3,11 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
 The style file: splncs04.bst
 Database file #1: references.bib
-Warning--I didn't find a database entry for "fig:unity_board"
 Warning--empty booktitle in Haas2014AHO
 Warning--empty journal in narvekar_learning_2018
 You've used 4 entries,
             2850 wiz_defined-function locations,
-            618 strings with 5375 characters,
+            617 strings with 5360 characters,
 and the built_in function-call counts, 1890 in all, are:
 = -- 130
 > -- 83
@@ -47,4 +46,4 @@ warning$ -- 2
 while$ -- 12
 width$ -- 5
 write$ -- 41
-(There were 3 warnings)
+(There were 2 warnings)

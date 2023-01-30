@@ -38,7 +38,7 @@ A game object in Unity defines the base for any entity in the given scene.
     \item{Rigidbody3D}: To add game objects to the physics simulation that are affected by gravity, the Rigidbody3D component with the associated flag can be added to game objects with a Collider3D.
 \end{itemize}
 With these two simple components and a C\# script the controls and gameplay can be simulated.\\
-In addition to the original game board, some modifications had to be made Fig.~\cite{fig:unity_board}.
+In addition to the original game board, some modifications had to be made:
 \begin{enumerate}
     \item{Top cover}: To make sure that the marble can't bounce out of the labyrinth, a transparent Collider3D has been
     added as a lid on top of the labyrinth.
@@ -48,10 +48,3 @@ In addition to the original game board, some modifications had to be made Fig.~\
     \item{Checkpoints}: Since the rules state that the marble has to follow the given path a checkpoint system has been implemented to ensure that the agent learns the correct behavior.
     A marble can only pass through the current checkpoint in line, otherwise the game will reset.
 \end{enumerate}
-
-\begin{figure}[h]
-    \centering
-    \includegraphics[width=0.65\textwidth]{images/wooden_game_board}
-    \caption{Unity version of the original labyrinth game board.}
-    \label{fig:unity_board}
-\end{figure}
