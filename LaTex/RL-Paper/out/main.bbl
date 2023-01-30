@@ -3,6 +3,11 @@
 \providecommand{\urlprefix}{URL }
 \providecommand{\doi}[1]{https://doi.org/#1}
 
+\bibitem{blender}
+Community, B.O.: Blender - a 3D modelling and rendering package. Blender
+  Foundation, Stichting Blender Foundation, Amsterdam (2018),
+  \url{http://www.blender.org}
+
 \bibitem{Haas2014AHO}
 Haas, J.K.: A history of the unity game engine (2014)
 
