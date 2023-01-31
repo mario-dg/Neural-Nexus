@@ -6,3 +6,9 @@
 The Unity ML-Agents Toolkit is an open-source plugin for the Unity game engine.
 It bundles easy to use functionality for environment creation, agent training, state-of-the-art RL algorithms and metric logging
 all via the given Python API and Unity's editor interface~\cite{juliani2020}.
+When working with this package there are only three main entities working together to build the training pipeline: Sensors, Agents and the Academy.
+The Agent is the main component, it indicates that a game object serves as a trainable agent in the environment.
+It can collect observations via different types of Sensors, take actions chosen by the policy and collect rewards to further improve its performance.
+Possible types of observations are vectors of any length and any numerical datatype, images or ray-cast results.
+The available RayPerceptionSensor casts rays from a specified point in any direction with an arbitrary length to determine distances to nearby game objects.
+And lastly the Academy serves as the connection point, as it manages the simulation, its global steps and the agents in the environment.
