@@ -42,14 +42,17 @@ environments, with about 0.1s between steps, as suggested by Unity.
 
 \subsection{Environment}\label{subsec:environment}
 \subsubsection{Action Space}
-The action space refers to a set of possible actions an agent can take in a given environment.
+The action space refers to the set of possible actions an agent can take in a given environment.
 It is usually represented as a discrete or continuous space, where discrete actions are chosen as distinct elements
-out of a finite set of, whereas continuous actions are real-valued vectors, and in Unity's case are clipped between $[-1, 1]$.
+out of a finite set, whereas continuous actions are real-valued vectors, and in Unity's case are clipped between $[-1, 1]$.
 As the controls of this game are fairly simple, so is the action space of this reinforcement learning task.
-The size of the action space is set to two floats, meaning the Python API fills a buffer with two floats ranging between $[-1, 1]$ to be converted into
+The size of the action space is set to two floats, meaning the Python API fills a buffer with two floats ranging between $[-1, 1]$ that will be converted into
 the corresponding controls:
 \begin{enumerate}
     \item{Rotation on X-Axis}: Rotates the labyrinth on the x-axis by the given amount in the action buffer multiplied with a constant rotation factor of 0.1.
     Depending on the sign of the action the board is either tilted towards positive or negative x.
-    \item{Rotation on Y-Axis}: 
+    \item{Rotation on Z-Axis}: Rotates the labyrinth equivalent on the z-axis.
+    Unity uses a left-handed, y-up coordinate system.
 \end{enumerate}
+Both actions are disconnected, meaning in one step the labyrinth can be tilted both on the x- and z-axis simultaneously.
+By using a continuous action space the agent can tilt the game board more precisely, which results in finer control over the marble.
