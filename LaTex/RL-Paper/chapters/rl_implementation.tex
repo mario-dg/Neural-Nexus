@@ -62,7 +62,7 @@ By using a continuous action space the agent can tilt the game board more precis
 
 \subsubsection{Observation Space}
 Contrary to the action space, the observation space describes the input of the agent, information that the agent receives from the environment.
-Is can also be discrete or continuous and is used to inform the decision making process of the agent.
+It can also be discrete or continuous and is used to inform the decision making process of the agent.
 The difficult trade-off is giving the agent enough data about it's surrounding to be able to converge on a good solution and not giving
 too much irrelevant data, which slows down the learning process or could lead to suboptimal performances.
 Agents in the ML-Agents package distinguish between two types of observations: vectors and images.
@@ -91,4 +91,15 @@ It indicates whether the actions it takes are good or bad.
 A good reward function must accurately reflect the desired behavior of the agent, otherwise suboptimal or even
 unwanted behaviors, that do not align with the intended task, can be the pursued by the agent.
 There are two different ways of rewarding an agent in Unity's ML-Agents: explicit rewards and passive rewards.
-With explicit rewards or punishments specific events are rewarded, meanwhile passive rewards result  
+With explicit rewards or punishments specific events are rewarded, meanwhile passive rewards encourage or discourage certain behaviors.
+Both techniques are used for the skill labyrinth and are identical for both approaches, curriculum learning and normal learning.
+During testing this step has gone through many iterations with vastly different reward functions.
+The following set of rewards and punishments performed best in the scope of testing time in this project.
+
+Positive rewards:
+\begin{enumerate}
+    \item Reaching the next checkpoint in line (+XXX * index of the checkpoint), encourages the agent to stick to the given path.
+    \item To ensure that the agent doesn't steer the marble around too much, resulting in falling into holes or going the wrong way, the agent
+    is reward the closer it gets to the next checkpoint (TODO: Formel).
+    \item Reaching the goal (+1000.0)
+\end{enumerate}
