@@ -36,3 +36,12 @@ An agent advances to the next subtask, when it is able to solve the current task
 To train the agent the Proximal Policy Optimization (PPO)~\cite{schulman_proximal_2017} algorithm is used.
 Since it's an on-policy algorithm that aims to find the best balance between exploration and exploitation, it's especially
 well suited for this task in a continuous environment.
+The alternative ML-Agents offer is is Soft-Actor Critic (SAC)~\cite{haarnoja_soft_2018}.
+This approach is not used, as it is better suited for a sparse reward system, higher dimensional action space and heavier or slower
+environments, with about 0.1s between steps, as suggested by Unity.
+
+\subsection{Environment}\label{subsec:environment}
+\subsubsection{Action Space}
+The action space refers to a set of possible actions an agent can take in a given environment.
+It is usually represented as a discrete or continuous space, where discrete actions are chosen as distinct elements
+out of a finite set of, whereas continuous actions are real-valued vectors, and in Unity's case are clipped between $[-1, 1]$.
