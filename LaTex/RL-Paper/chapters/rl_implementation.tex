@@ -18,6 +18,21 @@ An experience buffer of specified size is filled up by all agents and once it's 
 \subsection{Basics}\label{subsec:basics}
 The reason of this project is to compare the default reinforcement learning approach with the idea of curriculum learning.
 Very hard or enduring tasks might take a long time for an agent to solve, hence the idea of splitting it into smaller subtasks seems obvious.
-The major obstacle in using curriculum learning is building and choosing the subtasks.
-The goal of curriculum learning is to create a series of source tasks for the agent to train on, such that the acquired knowledge
-can be transferred to increase the learning speed and performance on the on the target task~\cite{narvekar_learning_2018}.
+Curriculum learning is an extension to the widely used transfer learning in other Machine Learning areas~\cite{wiering_transfer_2012}.
+Its goal is to create a series of source tasks for the agent to train on, such that the acquired knowledge
+can be transferred to increase the learning speed and performance on the target task~\cite{narvekar_learning_2018}.
+The major obstacle in using curriculum learning is building and choosing the subtasks~\cite{narvekar2016source}.
+For this specific game 3 smaller sub-levels were created of the labyrinth~\cite{fig:unity_levels}.
+The main idea is to train the agent on the whole labyrinth without holes first, to ensure that it is able to follow the specified path reliably.
+In the following stages more and more holes are introduced, such that only small adjustments to the movements have to be made.
+An agent advances to the next subtask, when it is able to solve the current task 100 times.
+
+\begin{figure}[h]
+    \centering
+    \caption{4 stages of the labyrinth used for curriulum learning.}
+    \label{fig:unity_levels}
+\end{figure}
+
+To train the agent the Proximal Policy Optimization (PPO) algorithm is used.
+Since it's an on-policy algorithm that aims to find the best balance between exploration and exploitation, it's especially
+well suited for this task in a continuous environment.
