@@ -94,12 +94,21 @@ There are two different ways of rewarding an agent in Unity's ML-Agents: explici
 With explicit rewards or punishments specific events are rewarded, meanwhile passive rewards encourage or discourage certain behaviors.
 Both techniques are used for the skill labyrinth and are identical for both approaches, curriculum learning and normal learning.
 During testing this step has gone through many iterations with vastly different reward functions.
-The following set of rewards and punishments performed best in the scope of testing time in this project.
-
+The following set of rewards and punishments performed best in the scope of testing time in this project.\\\\
 Positive rewards:
 \begin{enumerate}
-    \item Reaching the next checkpoint in line (+XXX * index of the checkpoint), encourages the agent to stick to the given path.
+    \item Reaching the next checkpoint in line adds (+XXX * index of the checkpoint), encourages the agent to stick to the given path.
     \item To ensure that the agent doesn't steer the marble around too much, resulting in falling into holes or going the wrong way, the agent
     is reward the closer it gets to the next checkpoint (TODO: Formel).
-    \item Reaching the goal (+1000.0)
+    \item Reaching the goal adds (+1000.0)
 \end{enumerate}
+Negative rewards:
+\begin{enumerate}
+    \item Falling into a hole sets (-XXX). Ends the episode with a negative reward.
+    \item Going through a wrong checkpoint sets (-XXX). End the episode with a negative reward.
+    \item Analogue to the reward the agent is punished, if the marble is moving away from the next checkpoint or not moving at all.
+    Adds (-XXX TODO:Formel)
+    \item If the marbles velocity is below a certain threshold (XXX) for more than XXX steps, the episode resets with a negative reward (-XXX)
+\end{enumerate}
+This set of punishments and rewards was chosen based on the rules of the board game and the intended goal of the game:
+Following the path to reach the end without falling into a hole.
