@@ -12,3 +12,12 @@ It can collect observations via different types of Sensors, take actions chosen 
 Possible types of observations are vectors of any length and any numerical datatype, images or ray-cast results.
 The available RayPerceptionSensor casts rays from a specified point in any direction with an arbitrary length to determine distances to nearby game objects.
 And lastly the Academy serves as the connection point, as it manages the simulation, its global steps and the agents in the environment.
+The Academy can also be used to speed up the training process, by multiplying the training arenas in the scene, allowing a parallel training of agents on the same policy.
+An experience buffer of specified size is filled up by all agents and once it's full the policy is updated.
+
+\subsection{Basics}\label{subsec:basics}
+The reason of this project is to compare the default reinforcement learning approach with the idea of curriculum learning.
+Very hard or enduring tasks might take a long time for an agent to solve, hence the idea of splitting it into smaller subtasks seems obvious.
+The major obstacle in using curriculum learning is building and choosing the subtasks.
+The goal of curriculum learning is to create a series of source tasks for the agent to train on, such that the acquired knowledge
+can be transferred to increase the learning speed and performance on the on the target task~\cite{narvekar_learning_2018}.
