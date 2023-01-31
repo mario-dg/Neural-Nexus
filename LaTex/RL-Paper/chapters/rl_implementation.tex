@@ -76,5 +76,19 @@ The best results were achieved with following set of observations:
     \item{Normalized Position of the marble}: 3 floats
     \item{Magnitude of Marble Velocity}: 1 float
     \item{Normalized Euclidian Distance to the next Checkpoint}: 1 float
-    \item 
+    \item{RayPerceptionSensor Checkpoints}: A RayPerceptionSensor with 8 total rays around the marble to detect the next checkpoint
+    \item{RayPerceptionSensor Holes}: A RayPerceptionSensor with 8 total rays around the marble tilted downwards to detect holes
 \end{itemize}
+This results in 13 float values passed in manually into the observation space buffer, with two added RayPerceptionSensors (16 rays)
+automatically added by Unity.
+Defining the observation space is a crucial step in developing a reinforcement learning game~\cite{song_observational_2019}.
+
+\subsubsection{Reward Engineering}
+Another very important step that determines the success of the learning process is the reward engineering~\cite{sutton_introduction_1992}.
+Reward engineering describes the process of defining and shaping the reward signal, which is a scalar value that provides
+feedback to the agent about its performance.
+It indicates whether the actions it takes are good or bad.
+A good reward function must accurately reflect the desired behavior of the agent, otherwise suboptimal or even
+unwanted behaviors, that do not align with the intended task, can be the pursued by the agent.
+There are two different ways of rewarding an agent in Unity's ML-Agents: explicit rewards and passive rewards.
+With explicit rewards or punishments specific events are rewarded, meanwhile passive rewards result  
