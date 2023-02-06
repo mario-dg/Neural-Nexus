@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ac0a43c-be9f-41e9-8b08-d7a41d15f2b5" name="Changes" comment="Updated .gitignore">
-      <change afterPath="$PROJECT_DIR$/chapters/training.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chapters/rl_implementation.tex" beforeDir="false" afterPath="$PROJECT_DIR$/chapters/rl_implementation.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapters/training.tex" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/main.tex" beforeDir="false" afterPath="$PROJECT_DIR$/main.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Semester 1/RL/Paper Outline.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Semester 1/RL/Paper Outline.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

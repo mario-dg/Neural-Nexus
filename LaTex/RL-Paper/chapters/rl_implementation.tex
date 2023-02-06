@@ -156,4 +156,16 @@ However, adding too many hidden layers can lead to overfitting and slow down the
     \vspace{10pt}
     \textbf{Tab. 1.} Used hyperparameters for normal RL approach and Curriculum Learning.
 \end{center}
+For the rest of the hyperparameters the default values were used.
+
+\subsubsection{Training}
+The concepts of reproducibility and determinism are critical in physics engines because they determine the accuracy and predictability of simulation results.
+Reproducibility in a physics engine refers to the ability to obtain the same simulation results when run multiple times under the same conditions.
+Determinism refers to the fact that, regardless of the hardware or software environment, simulation results should always be the same for the same inputs.
+In the Unity game engine both concepts can't be fully guaranteed.
+Trying to compare reinforcement learning with curriculum learning can't happen under fair circumstances, therefore both
+approaches are run five times with the best set of hyperparameters, to compare a statistical average.
+To reduce training time, the maximum number of steps was set to 75 million and concepts like parallel training were applied.
+
+
 
