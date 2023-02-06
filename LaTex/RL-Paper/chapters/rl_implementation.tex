@@ -165,7 +165,12 @@ Determinism refers to the fact that, regardless of the hardware or software envi
 In the Unity game engine both concepts can't be fully guaranteed.
 Trying to compare reinforcement learning with curriculum learning can't happen under fair circumstances, therefore both
 approaches are run five times with the best set of hyperparameters, to compare a statistical average.
-To reduce training time, the maximum number of steps was set to 75 million and concepts like parallel training were applied.
-
+To reduce training time, the maximum number of steps was set to 75 million and concepts like parallel training~\cite{parallel-training} were applied.
+For the normal reinforcement learning approach twelve labyrinths are simultaneously used to train the agent, whereas
+the curriculum learning approach uses nine environments.
+By analyzing graphs and visually observing the agent the best performing set of hyperparameters was found.
+To create the final data for this project report the agent was trained without a graphical output, to reduce computational costs and 3 separate game executables were running at the same time.
+This further increases the amount of environments to 36 for the normal reinforcement learning approach and 27 respectively.
+The resulting training time amounts to roughly 16 hours for one run.
 
 
