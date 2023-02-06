@@ -117,6 +117,43 @@ Following the path to reach the end without falling into a hole.
 Hyperparameters are parameters that are set before training and can not be learned from the data.
 Unity ML-Agents offers a great flexibility by making all hyperparameters customisable.
 This complicates the training process, since hyperparameter tuning is the main task in any Machine Learning application.
-In most of the applications starting with some predefined default values is advisable.
 By observing the results and the training process, those parameters can be adjusted.
 Doing this over and over again is a time consuming task, but it is necessary in order to achieve good results.
+The following hyperparameters were tuned the most.\\
+\textbf{batch\_size:}\\
+The number of experiences (i.e.\ samples) to be used in each iteration of the training process.
+Larger batch sizes can lead to faster convergence, but can also lead to slower training due to increased memory usage.\\
+\textbf{buffer\_size:}\\
+The maximum number of experiences to store in the experience replay buffer.
+The agent samples from this buffer to learn from past experiences.
+If the buffer size is too small, the agent may not have enough experiences to learn from.
+If the buffer size is too large, the agent may waste memory on irrelevant experiences.\\
+\textbf{lambd:}\\
+A parameter used in the Generalized Advantage Estimation (GAE) algorithm~\cite{schulman_high-dimensional_2015}, which is used to calculate the advantages of actions in reinforcement learning.
+The value of lambda determines the trade-off between bias and variance in the estimation of the advantages.\\
+\textbf{hidden\_units:}\\
+The number of neurons in the hidden layers of the neural network used for the policy and value function approximations.
+Increasing the number of hidden units can result in a more complex model that fits the data better, but also increases the risk of overfitting.\\
+\textbf{num\_layers:}\\
+The number of hidden layers in the neural network used to approximate the policy and value functions.
+Adding more hidden layers can increase the capacity of the model, allowing it to fit more complex relationships in the data.
+However, adding too many hidden layers can lead to overfitting and slow down the training process.\\
+
+\begin{center}
+    \rowcolors{2}{gray!25}{white}
+    \begin{tabular}{|c|c|c|}
+        \rowcolor{gray!50}
+        \hline
+        \textbf{Hyperparameter} & \textbf{Normal RL} & \textbf{Curriculum Learning} \\ \hline
+        batch\_size    & 2048      & 2048                \\ \hline
+        buffer\_size   & 40960     & 40960               \\ \hline
+        lambd          & 0.99      & 0.98                \\ \hline
+        hidden\_units  & 1024      & 1024                \\ \hline
+        num\_layers    & 3         & 3                   \\ \hline
+    \end{tabular}
+\end{center}
+\begin{center}
+    \vspace{10pt}
+    \textbf{Tab. 1.} Used hyperparameters for Reinforcement Learning and Curriculum Learning.
+\end{center}
+
