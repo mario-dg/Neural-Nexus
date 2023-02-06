@@ -27,6 +27,7 @@
 		1. Action Space
 		2. Observation Space
 		3. Rewards
+		4. Hyperparameters
 	4. Training
 		- Explain how training was set up, 10 runs for both methods with the best hyperparameters found, statistical best and worst
 		1. Default RL
