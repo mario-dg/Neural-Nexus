@@ -1,0 +1,8 @@
+%! Author = mario
+%! Date = 07.02.2023
+
+\section{Metrics and Results}\label{sec:metrics-and-results}
+To compare different runs and both mentioned approaches three different metrics are evaluated.
+The first is \textbf{episode\_length}, which represents the number of steps performed in a single episode, followed by \textbf{cumulative\_reward}, which is the sum of rewards collected over time, and finally the checkpoint index.
+When the agent falls into a hole or passes through an incorrect checkpoint, the last checkpoint's index is logged.
+For all of these metrics the average across all agents is calculated.
