@@ -10,6 +10,7 @@
     "FullMaze",
     "Rigidbody",
     "ADASYN",
-    "auroc"
+    "auroc",
+    "ColorJitter"
   ]
 }

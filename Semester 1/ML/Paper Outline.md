@@ -11,7 +11,7 @@
 - Criteria for evaluating techniques to counteract class imbalance
 - Discussion of prior studies on class imbalance in the CIFAR10 dataset
 
-### III. Methodology
+### [[III. Methodology]]
 - Data preparation and pre-processing: This section explains how the data is prepared and pre-processed, including any necessary data cleaning, normalization, and augmentation techniques.
 - Implementation of the techniques to counteract class imbalance: This section describes the techniques used to counteract class imbalance in the CIFAR10 dataset, including over-sampling, under-sampling, and cost-sensitive learning.
 - Evaluation metrics and their justification: This section outlines the evaluation metrics used to assess the performance of each technique, and explains the rationale for choosing these metrics.

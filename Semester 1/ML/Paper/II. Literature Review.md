@@ -28,6 +28,13 @@ Learning from class-imbalanced data: Review of methods and applications
 #Rare-Events, #Imbalanced-Data, #Machine-Learning, #Data-Mining
 Content:
 - Collected 527 papers with this topic, steady increase over last 20 years
-- 
+- Literally everything
+---
+Survey on deep learning with class imbalance
+https://doi.org/10.1186/s40537-019-0192-5
+#Deep-Learning, #Deep-Neural-Networks, #Class-Imbalance, #Big-Data 
+Content:
+- Class imbalance background, performance metrics
+- Also literally everything
 ---
 
