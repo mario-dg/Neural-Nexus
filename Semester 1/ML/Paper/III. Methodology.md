@@ -32,7 +32,7 @@ $$N_{i}=4000m^{\frac{i}{9}-1} | m=5; i=[0,9]$$
 $$FL(p_i) = -W_i (1 - p_i)^\gamma \log(p_i)$$
 $p_i: Predicted\ probability\ of\ target\ class$
 $W_i: Weight\ of\ the\ target\ class$
-$\gamma:$
+$\gamma:Controls\ rate\ of\ loss\ decay\ for\ well-classified\ samples$
 
 
 
