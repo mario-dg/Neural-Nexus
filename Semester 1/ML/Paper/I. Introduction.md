@@ -25,7 +25,30 @@ Content:
 ---
 A Review on Ensembles for the Class Imbalance Problem: Bagging-, Boosting-, and Hybrid-Based Approaches
 10.1109/TSMCC.2011.2161285
-#Bagging, #Boosting, #Class-Distribution, #Classification, #Ensembles, #Imbalanced-Data, #Multiple classifier system
+#Bagging, #Boosting, #Class-Distribution, #Classification, #Ensembles, #Imbalanced-Data, #Multiple-Classifier-System
 Content:
-- 
+- Review of ensemble methods as a solution
+- Techniques: bagging-based, boosting-based, and hybrid-based ensemble methods
+- Comparing several datasets and other state-of-the-art methods
+- Further research needed for ensemble methods
+---
+The effect of class distribution on classification algorithms in credit risk assessment
+10.1109/MIPRO.2016.7522329
+#K-Nearest-Neighbour, #Decision-Tree, #ANN, #Over-Sampling, #Under-Sampling 
+Content:
+- Credit card fraud assessment
+- Techniques: Decision Trees, K-Nearest-Neighbour, ANN
+- Resampling improves performance, especially on F1 and Recall
+- Performance depends on dataset (size, distribution)
+- Further research advised
+---
+Learning from imbalanced data: open challenges and future directions
+https://doi.org/10.1007/s13748-016-0094-0
+#Machine-Learning, #Imbalanced-Data, #Multi-Class-Imbalance, #Big-Data, #Data-Streams, #Imbalanced-Clustering, #Imbalanced-Regression
+Content:
+- Discusses current state of the field and further directions of research
+- Defines class imbalance, impact on ML, bias towards majority class, decreased performance of minority class
+- Existing techniques: resampling, cost-sensitive learning, ensemble methods
+- Open challenges: Need for better evaluation metrics, difficulties in DL models, limited understanding of trade-off between class imbalance and complexity of learning algorithm
+- Highlights need for interdisciplinary research involving experts of ML, statistics and domain-specific fields
 ---

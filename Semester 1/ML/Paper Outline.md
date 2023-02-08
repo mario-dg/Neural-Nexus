@@ -1,6 +1,6 @@
 ## Outline for "Hands-on Comparison of Techniques to Counteract Class Imbalances on an Imbalanced CIFAR10 Dataset"
 
-### I. Introduction
+### [[I. Introduction]]
 - Background and motivation for studying class imbalance in machine learning
 - Overview of the CIFAR10 dataset and its class imbalance
 - Purpose and scope of the paper
