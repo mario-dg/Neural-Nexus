@@ -5,6 +5,7 @@
   "obsidian-git",
   "tag-wrangler",
   "todoist-sync-plugin",
-  "cmdr",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "obsidian-zotero-desktop-connector",
+  "obsidian-citation-plugin"
 ]
