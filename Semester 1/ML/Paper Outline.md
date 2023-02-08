@@ -5,7 +5,7 @@
 - Overview of the CIFAR10 dataset and its class imbalance
 - Purpose and scope of the paper
 
-### II. Literature Review
+### [[II. Literature Review]]
 - Definition and types of class imbalance
 - Overview of techniques to counteract class imbalance
 - Criteria for evaluating techniques to counteract class imbalance

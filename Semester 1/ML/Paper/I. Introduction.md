@@ -52,3 +52,11 @@ Content:
 - Open challenges: Need for better evaluation metrics, difficulties in DL models, limited understanding of trade-off between class imbalance and complexity of learning algorithm
 - Highlights need for interdisciplinary research involving experts of ML, statistics and domain-specific fields
 ---
+CIFAR-10 (Canadian Institute for Advanced Research)
+http://www.cs.toronto.edu/~kriz/cifar.html
+Content:
+- 60000 32x32 colour images in 10 classes, with 6000 images per class
+- 50000 training and 10000 test images
+- Classes: airplane, automobile, bird, cat, deer, dog, frog, horse, ship, and truck
+- Balanced dataset
+---
