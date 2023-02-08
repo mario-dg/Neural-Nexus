@@ -26,6 +26,9 @@ $$N_{i}=4000m^{\frac{i}{9}-1} | m=5; i=[0,9]$$
 - Largest difference 800:4000 $\equiv$ 1:5
 
 ## Implementation of the techniques to counteract class imbalance
+- Balanced using all 40000 training images
+- Balanced using 20300 images of balanced classes
+- Baseline 
 - Inverse class frequency weight: $W_{i}=1/N_{i}$
 - Balanced class weight using Scikit-learn: $W_{i}=N_{samples}/(N_{classes}*N_{i})$
 - Focal Loss using both weights
@@ -33,7 +36,17 @@ $$FL(p_i) = -W_i (1 - p_i)^\gamma \log(p_i)$$
 $p_i: Predicted\ probability\ of\ target\ class$
 $W_i: Weight\ of\ the\ target\ class$
 $\gamma:Controls\ rate\ of\ loss\ decay\ for\ well-classified\ samples$
+- Undersampling
+- Oversampling
+- Augmentation 1 + Class Weight
+- Augmentation 1 + Undersampling
+- Augmentation 1 + Oversampling
+- Augmentation 1 + Oversampling + Class Weight
+- Augmentation 2 + Oversampling
+- Augmentation 2 + Oversampling + Class Weight
 
+## Evaluation metrics and their justification
+- 
 
 
 ---
@@ -41,5 +54,5 @@ Focal Loss for Dense Object Detection
 https://doi.org/10.48550/arXiv.1708.02002
 Content:
 - Introduces the Focal Loss
-- Decreases loss for well-classified samples and increases it for missclassified ones
+- Decreases loss for well-classified samples and increases it for misclassified ones
 ---
