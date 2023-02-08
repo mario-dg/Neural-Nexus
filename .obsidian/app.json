@@ -11,6 +11,8 @@
     "Rigidbody",
     "ADASYN",
     "auroc",
-    "ColorJitter"
+    "ColorJitter",
+    "AUROC",
+    "val"
   ]
 }

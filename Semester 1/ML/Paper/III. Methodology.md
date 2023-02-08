@@ -33,9 +33,9 @@ $$N_{i}=4000m^{\frac{i}{9}-1} | m=5; i=[0,9]$$
 - Balanced class weight using Scikit-learn: $W_{i}=N_{samples}/(N_{classes}*N_{i})$
 - Focal Loss using both weights
 $$FL(p_i) = -W_i (1 - p_i)^\gamma \log(p_i)$$
-$p_i: Predicted\ probability\ of\ target\ class$
-$W_i: Weight\ of\ the\ target\ class$
-$\gamma:Controls\ rate\ of\ loss\ decay\ for\ well-classified\ samples$
+$$p_i: Predicted\ probability\ of\ target\ class$$
+$$W_i: Weight\ of\ the\ target\ class$$
+$$\gamma:Rate\ of\ loss\ decay\ for\ well-classified\ samples$$
 - Undersampling
 - Oversampling
 - Augmentation 1 + Class Weight
@@ -46,7 +46,21 @@ $\gamma:Controls\ rate\ of\ loss\ decay\ for\ well-classified\ samples$
 - Augmentation 2 + Oversampling + Class Weight
 
 ## Evaluation metrics and their justification
-- 
+- Accuracy - show that it's not a valid metric | train/val data
+- F1 macro - f1 score for each class, averaged | val data
+- AUROC - auroc for each class, averaged | val data
+- F1 per class - see f1 score for each class individually | val data
+- PR Curve - precision vs recall per class | unseen test data
+- ROC - TP vs FP per class | unseen test data
+- Confusion Matrix | unseen test data
+
+## Data partitioning and cross-validation approach
+- CIFAR10 train split into train + val (0.8:0.2; 40,000:10,000)
+- train data imbalanced (20,338), val balanced (10,000)
+- CIFAR10 test, 1000 images per class
+- Undersampling, 800 images per class
+- Oversampling, 4000 images per class
+- train data shuffled, val and test not
 
 
 ---
