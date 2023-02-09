@@ -1,6 +1,0 @@
----
-tags: []
----
-
-[Source]()
-Authors: 
