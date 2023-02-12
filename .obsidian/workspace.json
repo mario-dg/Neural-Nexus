@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "b514c2225571b690",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2ea986a362aa296",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "805191258568229d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "dafa0fd10c2cb677",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30969c939c0aa6d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc4d1d45643517b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "198ec4090d24a385",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a78c49e055c6d0e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "98d8ec6399e547f7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 288.5
+  },
+  "right": {
+    "id": "b23332167b549904",
+    "type": "split",
+    "children": [
+      {
+        "id": "16a5e68d41f29dda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66d52df1ef04fd77",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0182e0d7f2584ef7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "bbe6625c4c8510c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a9a03a771ad78d6c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e4e91701e735b8b1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 332.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dafa0fd10c2cb677",
+  "lastOpenFiles": [
+    "Semester 1/ML/Paper Outline.md",
+    "Semester 1/ML/Paper/I. Introduction.md",
+    "Semester 1/ML/Paper/III. Methodology.md",
+    "Untitled.canvas",
+    "Semester 1/RL/Paper Outline.md",
+    "Semester 1/ML/Paper/II. Literature Review.md",
+    "Literature/@chowdharySegmentationFeatureExtraction2020.md",
+    "Literature/@andricEffectClassDistribution2016.md",
+    "andricEffectClassDistribution2016.pdf.md",
+    "Literature/@beaver2014.md"
+  ]
+}
