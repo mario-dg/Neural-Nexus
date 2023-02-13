@@ -17,3 +17,14 @@ Evaluation metrics (Evaluated on unseen test set):
 - ROC-Curve: Similar to AUROC
 - Confusion Matrix: Shows possible misclassification/confusion patterns, see where the model performs especially good or bad on concrete examples
 
+Runs to use:
+- Reduced Balanced
+- Baseline
+- Class Weight
+- Focal Loss
+- Undersampling
+- Oversampling
+- Heavy Augmentation + Class Weight
+- Heavy Augmentation + Oversampling
+- Simple Augmentation + Oversampling
+
