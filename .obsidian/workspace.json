@@ -8,21 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "805191258568229d",
+            "id": "ed05c9baede60555",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Paper/Outline.md",
+                "mode": "source",
+                "source": false
+              },
               "pinned": true
             }
           },
           {
-            "id": "dafa0fd10c2cb677",
+            "id": "aca0c0b974356521",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Paper/IV. Results and Analysis.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -102,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Machine Learning/Paper/IV. Results and Analysis.md"
+              }
             }
           },
           {
@@ -111,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Machine Learning/Paper/IV. Results and Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Machine Learning/Paper/IV. Results and Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,17 +170,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dafa0fd10c2cb677",
+  "active": "aca0c0b974356521",
   "lastOpenFiles": [
+    "Machine Learning/Paper/Outline.md",
+    "Machine Learning/Paper/IV. Results and Analysis.md",
+    "Machine Learning/Paper/III. Methodology.md",
     "Semester 1/ML/Paper Outline.md",
     "Semester 1/ML/Paper/I. Introduction.md",
     "Semester 1/ML/Paper/III. Methodology.md",
     "Untitled.canvas",
     "Semester 1/RL/Paper Outline.md",
     "Semester 1/ML/Paper/II. Literature Review.md",
-    "Literature/@chowdharySegmentationFeatureExtraction2020.md",
-    "Literature/@andricEffectClassDistribution2016.md",
-    "andricEffectClassDistribution2016.pdf.md",
-    "Literature/@beaver2014.md"
+    "Literature/@chowdharySegmentationFeatureExtraction2020.md"
   ]
 }
