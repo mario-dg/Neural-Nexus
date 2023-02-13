@@ -6,8 +6,14 @@
 ---
 
 ## Comparison of performance metrics
-Trainings metrics:
+Trainings metrics (Evaluated on validation set):
 - F1_Macro Score: Takes precision and recall into account, provides balance of them. F1 score of each class separately and then averages → Weighting each class same
 - AUROC_Macro Score: Measure to distinguish FPR and TPR at different thresholds → Same as F1
 - Accuracy: To show how deceiving the metric can be and give false performance measures, when data is imbalanced
 - Class-wise F1-Score: F1-Score plotted for each class individually to see how different classes perform
+
+Evaluation metrics (Evaluated on unseen test set):
+- PR-Curve: Precision over recall on different thresholds, observe shape of curve to see if model biased towards precision or recall.
+- ROC-Curve: Similar to AUROC
+- Confusion Matrix: Shows possible misclassification/confusion patterns, see where the model performs especially good or bad on concrete examples
+

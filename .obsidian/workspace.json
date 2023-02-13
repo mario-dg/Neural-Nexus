@@ -22,15 +22,17 @@
             }
           },
           {
-            "id": "aca0c0b974356521",
+            "id": "1fd1f4b41539f876",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Machine Learning/Paper/IV. Results and Analysis.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -170,17 +172,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aca0c0b974356521",
+  "active": "198ec4090d24a385",
   "lastOpenFiles": [
-    "Machine Learning/Paper/Outline.md",
+    "Machine Learning/Images/ISIC-Results/baseline3_accuracy.png",
     "Machine Learning/Paper/IV. Results and Analysis.md",
+    "Machine Learning/Paper/Outline.md",
     "Machine Learning/Paper/III. Methodology.md",
     "Semester 1/ML/Paper Outline.md",
     "Semester 1/ML/Paper/I. Introduction.md",
     "Semester 1/ML/Paper/III. Methodology.md",
     "Untitled.canvas",
     "Semester 1/RL/Paper Outline.md",
-    "Semester 1/ML/Paper/II. Literature Review.md",
-    "Literature/@chowdharySegmentationFeatureExtraction2020.md"
+    "Semester 1/ML/Paper/II. Literature Review.md"
   ]
 }
