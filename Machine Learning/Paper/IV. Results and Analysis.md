@@ -54,6 +54,10 @@ Runs to use:
 	- Also visible in ROC-Curve and PR-Curve
 	- Undersampling much more confusion, worse performance on majority classes, slightly better on 2 classes with the least amount of samples
 	- Oversampling good on minority and majority classes, still some confusion on hard classes
+- Baseline vs Heavy Augmentation vs Simple Augmentation:
+	- Heavy augmentation much higher loss and bigger discrepancy between train and validation, simple augmentation also has a higher loss compared to the baseline, but not as significant
+	- Same observable for accuracy
+	- 
 
 Rarely just one technique used, combination mostly yields the best results. Only the best performing techniques from above are used in combination.
 
@@ -71,8 +75,16 @@ Rarely just one technique used, combination mostly yields the best results. Only
 	- Also visible on CM, no big spikes in misclassification of hard classes, minority and majority classes predicted accurately, generalization pretty good
 
 ## Identification of strengths and limitations of each technique
-- Focal Loss and Class Weights behave similar on this dataset, although CW seemed slightly more stable
-- Undersampling really bad, since number of samples already pretty low
+- Focal Loss and Class Weights behave similar on this dataset, although CW seemed slightly more stable, both succeed in improving performance of minority class, while unfortunately reducing performance of majority classes
+- Undersampling really bad, since number of samples already pretty low, general loss of performance across the whole dataset, still reduces differences in performance of majority and minority classes
 - Oversampling in contrast works pretty good, since number of samples greatly increased, less prone to overfitting
-- Heavy augmentation too strong for the small images, possibly resulted in too much noise, where class characteristics weren't visible anymore
-- Simpler and less augmentation worked better
+- Heavy augmentation too strong for the small images, possibly resulted in too much noise, where class characteristics weren't visible any more, although increasing variance, performance decreases
+- Simpler and less augmentation worked better, increased variance in dataset without adding too much noise, slightly increases variance, improves performance across whole dataset, but fails to reduce difference between majority and minority classes
+- Heavy augmentation in combination with CW or OS also didn't counteract the problems of image noise
+- Simple augmentation with oversampling achieved best results, increased number of samples with variance, resulting in more images without too many duplicates. Improves performance in general and reduces bias towards the majority classes
+- General limitations: Few samples, Small image size
+
+## Recommendations for selecting an appropriate technique for a specific problem
+- Choosing the right techniques to counter class imbalances is a task of trial and error
+- Greatly influenced by dataset, data distribution, set of features in data and the model itself
+- As mentioned above, the best performance achieved simple augmentation in combination with over sampling

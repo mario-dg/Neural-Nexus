@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Paper/Outline.md",
+                "file": "Machine Learning/Paper/0. Outline.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,17 +22,15 @@
             }
           },
           {
-            "id": "1fd1f4b41539f876",
+            "id": "e5feba482290ad79",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Machine Learning/Paper/IV. Results and Analysis.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ],
@@ -172,17 +170,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1fd1f4b41539f876",
+  "active": "198ec4090d24a385",
   "lastOpenFiles": [
+    "Machine Learning/Paper/0. Outline.md",
+    "Machine Learning/Paper/V. Conclusion.md",
+    "Machine Learning/Paper/IV. Results and Analysis.md",
+    "Machine Learning/Images/Imbalanced-CIFAR10-Results/Baseline_vs_HACW_vs_HAOS/F1_AUROC.png",
     "Machine Learning/Paper/III. Methodology.md",
     "Machine Learning/Paper/II. Literature Review.md",
-    "Machine Learning/Paper/IV. Results and Analysis.md",
     "Machine Learning/Images/ISIC-Results/baseline3_accuracy.png",
-    "Machine Learning/Paper/Outline.md",
     "Semester 1/ML/Paper Outline.md",
     "Semester 1/ML/Paper/I. Introduction.md",
-    "Semester 1/ML/Paper/III. Methodology.md",
-    "Untitled.canvas",
-    "Semester 1/RL/Paper Outline.md"
+    "Semester 1/ML/Paper/III. Methodology.md"
   ]
 }
