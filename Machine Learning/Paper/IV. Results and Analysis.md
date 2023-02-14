@@ -28,3 +28,8 @@ Runs to use:
 - Heavy Augmentation + Oversampling
 - Simple Augmentation + Oversampling
 
+## Discussion of results and their implications
+- Reduces Balanced:
+	- Obvious and expected reduction in performance
+	- Loss slightly worse
+
