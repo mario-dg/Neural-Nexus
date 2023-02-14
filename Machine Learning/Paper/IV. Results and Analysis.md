@@ -29,7 +29,13 @@ Runs to use:
 - Simple Augmentation + Oversampling
 
 ## Discussion of results and their implications
-- Reduces Balanced:
+- Reduced Balanced vs Baseline:
 	- Obvious and expected reduction in performance
-	- Loss slightly worse
+	- Loss slightly worse, with lower validation loss → bad generalization
+	- Accuracy slightly better, giving the misconception of a good performing model
+	- Complete opposite, when looking at AUROC and F1_Macro. Dropped to 1/8th and worse
+	- Multiclass F1-Score shows massive drop in scores, with all classes below 1.5
+	- Obvious when looking at confusion matrix, underrepresented classes gets predicted much less, resulting in overprediction of overrepresented class → higher accuracy
+	- Baseline struggles with objects of similar type, i.e. (dog, cat, frog and automobile/truck)
+	- ROC-Curve and PR-Curve similar, both struggle with same classes, but in both cases Baseline performs slightly worse
 

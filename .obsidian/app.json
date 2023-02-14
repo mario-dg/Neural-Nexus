@@ -13,6 +13,7 @@
     "auroc",
     "ColorJitter",
     "AUROC",
-    "val"
+    "val",
+    "Multiclass"
   ]
 }
