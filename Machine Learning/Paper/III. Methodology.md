@@ -24,7 +24,7 @@ $$x_{norm} = \frac{x - mean}{std}$$
 $$N_{i}=4000m^{\frac{i}{9}-1} | m=5; i=[0,9]$$
 - 20338 samples in total, steadily decreasing images per class
 - Largest difference 800:4000 $\equiv$ 1:5
-- 
+- Possibly some hard classes: Cat/Dog, Automobile/Truck
 
 ## Implementation of the techniques to counteract class imbalance
 - Balanced using all 40000 training images
