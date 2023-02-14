@@ -57,7 +57,10 @@ Runs to use:
 - Baseline vs Heavy Augmentation vs Simple Augmentation:
 	- Heavy augmentation much higher loss and bigger discrepancy between train and validation, simple augmentation also has a higher loss compared to the baseline, but not as significant
 	- Same observable for accuracy
-	- 
+	- AUROC convergences in same score, yet heavy augmentation has a smaller slope in the beginning, F1_Macro-Scores follow same trend as the accuracy and loss, but the simple augmentation has a much greater slope than the baseline in first 20 epochs
+	- Heavy augmentation underperforms in all classes for the F1-Scores, whereas simple augmentation achieves a slightly worse score for the majority classes, while increases the scores for the minority classes
+	- Same trend visible in ROC-Curve and PR-Curve
+	- Heavy augmentation induces more error in generalization, resulting in more confusion between all classes, in addition hard classes experience higher peaks in misclassification, simple augmentation generalizes really well, reducing the amount confusion for all classes, reduces the spikes of misclassification of hard classes, but can't remove them
 
 Rarely just one technique used, combination mostly yields the best results. Only the best performing techniques from above are used in combination.
 

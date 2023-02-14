@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "e5feba482290ad79",
+            "id": "aac19abc7d5162a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -170,11 +170,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "198ec4090d24a385",
+  "active": "aac19abc7d5162a4",
   "lastOpenFiles": [
     "Machine Learning/Paper/0. Outline.md",
-    "Machine Learning/Paper/V. Conclusion.md",
     "Machine Learning/Paper/IV. Results and Analysis.md",
+    "Machine Learning/Paper/V. Conclusion.md",
     "Machine Learning/Images/Imbalanced-CIFAR10-Results/Baseline_vs_HACW_vs_HAOS/F1_AUROC.png",
     "Machine Learning/Paper/III. Methodology.md",
     "Machine Learning/Paper/II. Literature Review.md",
