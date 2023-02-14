@@ -47,5 +47,19 @@ Runs to use:
 	- Much better performance of minority classes, when looking at CM, still some overprediction of majority classes, truck ship for FL and truck for CW. 
 	- Less confusion between multiple classes in FL, but CW performs better on previously mentions similar classes, i.e. dog, cat
 - Baseline vs US vs OS:
-	- Undersampling always worse than baseline, Oversampling greater reduction in loss and faster 
+	- Undersampling always worse than baseline, Oversampling greater reduction in loss and greater slope of accuracy
+	- Oversampling slightly bigger slope in first 20 epochs on AUROC, Undersampling worse respectively
+	- Undersampling can't reach same F1_Macro-Score, whereas Oversampling reaches it much faster → More samples
+	- Undersampling worse on majority classes than Baseline, but slightly better on minority classes. Whereas Oversampling outperforms on all classes
+	- Also visible in ROC-Curve and PR-Curve
+	- Undersampling much more confusion, worse performance on majority classes, slightly better on 2 classes with the least amount of samples
+	- Oversampling good on minority and majority classes, still some confusion on hard classes
 
+Rarely just one technique used, combination mostly yields the best results. Only the best performing techniques from above are used in combination.
+
+- Baseline vs Heavy Augmentation + CW vs Heavy Augmentation + OS
+	- Much greater difference between val and train loss, with HA + OS, having the worst train_loss, accuracy also greatly decreases
+	- Both methods converge on same F1_Macro and AUROC score, which is significantly lower compared to Baseline, but HA + OS has a greater slope in beginning → Augmentation might be too strong, for the small images
+	- Baseline outperforms both techniques on majority classes, HA + OS performs better than HA + CW on most of the majority classes
+	- Same trend visible in ROC-Curve and PR-Curve: Generally baseline is better, and both techniques have performed much worse on cat and deer
+	- HA + CW much more general confusion with smaller outliers, whereas HA + OS generalizes better but has higher peaks when misclassifying the hard classes
