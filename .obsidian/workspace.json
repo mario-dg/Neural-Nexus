@@ -24,10 +24,24 @@
           {
             "id": "ff0b3f19bc8e3ea6",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Machine Learning/Paper/II. Literature Review.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "84b9f95551c37565",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Paper/I. Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -172,13 +186,13 @@
   },
   "active": "ff0b3f19bc8e3ea6",
   "lastOpenFiles": [
-    "Machine Learning/Paper/0. Outline.md",
     "Machine Learning/Paper/I. Introduction.md",
+    "Machine Learning/Paper/II. Literature Review.md",
+    "Machine Learning/Paper/0. Outline.md",
     "Machine Learning/Paper/IV. Results and Analysis.md",
     "Machine Learning/Paper/V. Conclusion.md",
     "Machine Learning/Images/Imbalanced-CIFAR10-Results/Baseline_vs_HACW_vs_HAOS/F1_AUROC.png",
     "Machine Learning/Paper/III. Methodology.md",
-    "Machine Learning/Paper/II. Literature Review.md",
     "Machine Learning/Images/ISIC-Results/baseline3_accuracy.png",
     "Semester 1/ML/Paper Outline.md",
     "Semester 1/ML/Paper/I. Introduction.md"
