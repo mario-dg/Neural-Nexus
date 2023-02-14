@@ -41,14 +41,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Paper/I. Introduction.md",
+                "file": "Machine Learning/Paper/III. Methodology.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Paper/II. Literature Review.md"
+                "file": "Machine Learning/Paper/III. Methodology.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Paper/II. Literature Review.md",
+                "file": "Machine Learning/Paper/III. Methodology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Paper/II. Literature Review.md",
+                "file": "Machine Learning/Paper/III. Methodology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,10 +184,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff0b3f19bc8e3ea6",
+  "active": "84b9f95551c37565",
   "lastOpenFiles": [
-    "Machine Learning/Paper/I. Introduction.md",
     "Machine Learning/Paper/II. Literature Review.md",
+    "Machine Learning/Paper/I. Introduction.md",
     "Machine Learning/Paper/0. Outline.md",
     "Machine Learning/Paper/IV. Results and Analysis.md",
     "Machine Learning/Paper/V. Conclusion.md",

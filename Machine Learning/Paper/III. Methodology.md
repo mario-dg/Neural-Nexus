@@ -71,3 +71,9 @@ Content:
 - Introduces the Focal Loss
 - Decreases loss for well-classified samples and increases it for misclassified ones
 ---
+The impact of class imbalance in classification performance metrics based on the binary confusion matrix
+https://doi.org/10.1016/j.patcog.2019.02.023
+Content:
+- Describes how accuracy is a bad metric for imbalanced data
+- Confusion Matrix better suited
+---
