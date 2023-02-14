@@ -63,3 +63,16 @@ Rarely just one technique used, combination mostly yields the best results. Only
 	- Baseline outperforms both techniques on majority classes, HA + OS performs better than HA + CW on most of the majority classes
 	- Same trend visible in ROC-Curve and PR-Curve: Generally baseline is better, and both techniques have performed much worse on cat and deer
 	- HA + CW much more general confusion with smaller outliers, whereas HA + OS generalizes better but has higher peaks when misclassifying the hard classes
+- Baseline vs Simple Augmentation + OS
+	- Much less difference between train and validation loss, although a slightly higher loss in total, same for accuracy
+	- Very similar AUROC, but a slightly greater slope in beginning, F1_Macro also increases faster, but converges on a lower value
+	- Confirmed by looking at Multiclass F1-Scores, greater performance on minority classes, but slightly worse on majority classes
+	- ROC-Curve and PR-Curve much better Baseline → Best generalization yet achieved on unseen test data
+	- Also visible on CM, no big spikes in misclassification of hard classes, minority and majority classes predicted accurately, generalization pretty good
+
+## Identification of strengths and limitations of each technique
+- Focal Loss and Class Weights behave similar on this dataset, although CW seemed slightly more stable
+- Undersampling really bad, since number of samples already pretty low
+- Oversampling in contrast works pretty good, since number of samples greatly increased, less prone to overfitting
+- Heavy augmentation too strong for the small images, possibly resulted in too much noise, where class characteristics weren't visible anymore
+- Simpler and less augmentation worked better
