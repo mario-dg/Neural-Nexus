@@ -31,11 +31,21 @@ Runs to use:
 ## Discussion of results and their implications
 - Reduced Balanced vs Baseline:
 	- Obvious and expected reduction in performance
-	- Loss slightly worse, with lower validation loss → bad generalization
+	- Loss slightly worse, with lower validation loss → Validation set balanced
 	- Accuracy slightly better, giving the misconception of a good performing model
 	- Complete opposite, when looking at AUROC and F1_Macro. Dropped to 1/8th and worse
 	- Multiclass F1-Score shows massive drop in scores, with all classes below 1.5
 	- Obvious when looking at confusion matrix, underrepresented classes gets predicted much less, resulting in overprediction of overrepresented class → higher accuracy
 	- Baseline struggles with objects of similar type, i.e. (dog, cat, frog and automobile/truck)
 	- ROC-Curve and PR-Curve similar, both struggle with same classes, but in both cases Baseline performs slightly worse
+- Baseline vs CW vs FL:
+	- Training loss CW > Training Loss FL > Training Loss Baseline, whereas validation loss same
+	- Accuracy of FL slightly worse, but CW same
+	- AUROC exactly same for all 3, FL and CW greater slope of F1_macro curve, but converge in same value → less training needed for same results
+	- Multiclass F1-Score similar behaviour with convergence, majority classes converge on slightly lower F1-Scores, but minority classes on the other hand perform better
+	- CW and FL show much greater slope of especially of the minority classes, with very small to irrelevant performance differences between CW and FL
+	- Much better performance of minority classes, when looking at CM, still some overprediction of majority classes, truck ship for FL and truck for CW. 
+	- Less confusion between multiple classes in FL, but CW performs better on previously mentions similar classes, i.e. dog, cat
+- Baseline vs US vs OS:
+	- Undersampling always worse than baseline, Oversampling greater reduction in loss and faster 
 
