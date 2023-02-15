@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Paper/III. Methodology.md"
+                "file": "Machine Learning/Paper/II. Literature Review.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Paper/III. Methodology.md",
+                "file": "Machine Learning/Paper/II. Literature Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Paper/III. Methodology.md",
+                "file": "Machine Learning/Paper/II. Literature Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,8 +184,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0f0d28694c7f8e6",
+  "active": "ff0b3f19bc8e3ea6",
   "lastOpenFiles": [
+    "Machine Learning/Paper/III. Methodology.md",
     "Machine Learning/Paper/II. Literature Review.md",
     "Machine Learning/Images/Imbalanced-CIFAR10-Results/Baseline_vs_Reduced-Balance/Accuracy.png",
     "Machine Learning/Images/Imbalanced-CIFAR10-Results/Baseline_vs_SAOS/SAOS_CM.png",
@@ -194,7 +195,6 @@
     "Machine Learning/Images/Imbalanced-CIFAR10-Results/Baseline_vs_HA_vs_SA/F1-Scores.png",
     "Machine Learning/Images/Imbalanced-CIFAR10-Results/Baseline_vs_HACW_vs_HAOS/Loss.png",
     "Machine Learning/Images/Imbalanced-CIFAR10-Results/Baseline_vs_CW_vs_FL/Accuracy.png",
-    "Machine Learning/Images/Imbalanced-CIFAR10-Results/Baseline_vs_CW_vs_FL/Loss.png",
-    "Machine Learning/Images/Imbalanced-CIFAR10-Results/Baseline_vs_CW_vs_FL/FL_CM.png"
+    "Machine Learning/Images/Imbalanced-CIFAR10-Results/Baseline_vs_CW_vs_FL/Loss.png"
   ]
 }
