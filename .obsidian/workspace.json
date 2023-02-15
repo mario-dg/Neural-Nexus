@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Paper/III. Methodology.md",
+                "file": "Machine Learning/Paper/I. Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -186,15 +186,15 @@
   },
   "active": "ff0b3f19bc8e3ea6",
   "lastOpenFiles": [
-    "Machine Learning/Paper/III. Methodology.md",
+    "Machine Learning/Paper/I. Introduction.md",
     "Machine Learning/Paper/II. Literature Review.md",
+    "Machine Learning/Paper/III. Methodology.md",
     "Machine Learning/Images/Imbalanced-CIFAR10-Results/Baseline_vs_Reduced-Balance/Accuracy.png",
     "Machine Learning/Images/Imbalanced-CIFAR10-Results/Baseline_vs_SAOS/SAOS_CM.png",
     "Machine Learning/Images/Imbalanced-CIFAR10-Results/Baseline_vs_SAOS/F1_AUROC.png",
     "Machine Learning/Images/Imbalanced-CIFAR10-Results/Baseline_vs_HA_vs_SA/F1_AUROC.png",
     "Machine Learning/Images/Imbalanced-CIFAR10-Results/Baseline_vs_HA_vs_SA/F1-Scores.png",
     "Machine Learning/Images/Imbalanced-CIFAR10-Results/Baseline_vs_HACW_vs_HAOS/Loss.png",
-    "Machine Learning/Images/Imbalanced-CIFAR10-Results/Baseline_vs_CW_vs_FL/Accuracy.png",
-    "Machine Learning/Images/Imbalanced-CIFAR10-Results/Baseline_vs_CW_vs_FL/Loss.png"
+    "Machine Learning/Images/Imbalanced-CIFAR10-Results/Baseline_vs_CW_vs_FL/Accuracy.png"
   ]
 }
