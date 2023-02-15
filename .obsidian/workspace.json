@@ -34,9 +34,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "b0f0d28694c7f8e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Paper/III. Methodology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Paper/II. Literature Review.md"
+                "file": "Machine Learning/Paper/III. Methodology.md"
               }
             }
           },
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Paper/II. Literature Review.md",
+                "file": "Machine Learning/Paper/III. Methodology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Paper/II. Literature Review.md",
+                "file": "Machine Learning/Paper/III. Methodology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,10 +184,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff0b3f19bc8e3ea6",
+  "active": "b0f0d28694c7f8e6",
   "lastOpenFiles": [
-    "Machine Learning/Images/Imbalanced-CIFAR10-Results/Baseline_vs_Reduced-Balance/Accuracy.png",
     "Machine Learning/Paper/II. Literature Review.md",
+    "Machine Learning/Images/Imbalanced-CIFAR10-Results/Baseline_vs_Reduced-Balance/Accuracy.png",
     "Machine Learning/Images/Imbalanced-CIFAR10-Results/Baseline_vs_SAOS/SAOS_CM.png",
     "Machine Learning/Images/Imbalanced-CIFAR10-Results/Baseline_vs_SAOS/F1_AUROC.png",
     "Machine Learning/Images/Imbalanced-CIFAR10-Results/Baseline_vs_HA_vs_SA/F1_AUROC.png",
