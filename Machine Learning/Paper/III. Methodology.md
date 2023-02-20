@@ -39,6 +39,8 @@ $$W_i: Weight\ of\ the\ target\ class$$
 $$\gamma:Rate\ of\ loss\ decay\ for\ well-classified\ samples$$
 - Undersampling
 - Oversampling
+- Heavy Augmentation
+- Simple Augmentation
 - Augmentation 1 + Class Weight
 - Augmentation 1 + Undersampling
 - Augmentation 1 + Oversampling
