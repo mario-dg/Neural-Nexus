@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Paper/IV. Results and Analysis.md",
+                "file": "Machine Learning/Paper/V. Conclusion.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Paper/IV. Results and Analysis.md"
+                "file": "Machine Learning/Paper/V. Conclusion.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Paper/IV. Results and Analysis.md",
+                "file": "Machine Learning/Paper/V. Conclusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Paper/IV. Results and Analysis.md",
+                "file": "Machine Learning/Paper/V. Conclusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,10 +184,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14c0f035df1c8dca",
+  "active": "198ec4090d24a385",
   "lastOpenFiles": [
-    "Machine Learning/Paper/III. Methodology.md",
     "Machine Learning/Paper/IV. Results and Analysis.md",
+    "Machine Learning/Paper/III. Methodology.md",
     "Machine Learning/Paper/II. Literature Review.md",
     "Machine Learning/Paper/I. Introduction.md",
     "Machine Learning/Images/Imbalanced-CIFAR10-Results/Baseline_vs_Reduced-Balance/Accuracy.png",
