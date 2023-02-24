@@ -46,9 +46,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8e58a1de84d4c3b6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -185,7 +195,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c2650c1e580e4829",
+  "active": "8e58a1de84d4c3b6",
   "lastOpenFiles": [
     "Machine Learning/Paper/III. Methodology.md",
     "Reinforcement Learning/Images/CR-CM.png",
