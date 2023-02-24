@@ -4,39 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c2ea986a362aa296",
+        "id": "28e88f6b690f927f",
         "type": "tabs",
         "children": [
           {
-            "id": "ed05c9baede60555",
+            "id": "b3b5af7135724380",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Paper/0. Outline.md",
+                "file": "Reinforcement Learning/Paper Outline.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "b0f0d28694c7f8e6",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Paper/III. Methodology.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reinforcement Learning/Images/level_4.png"
+                "file": "Reinforcement Learning/Paper Outline.md"
               }
             }
           },
@@ -123,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reinforcement Learning/Images/level_4.png",
+                "file": "Reinforcement Learning/Paper Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reinforcement Learning/Images/level_4.png",
+                "file": "Reinforcement Learning/Paper Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,6 +157,9 @@
   },
   "active": "198ec4090d24a385",
   "lastOpenFiles": [
+    "Machine Learning/Paper/III. Methodology.md",
+    "Machine Learning/Paper/0. Outline.md",
+    "Reinforcement Learning/Images/level_4.png",
     "Reinforcement Learning/Images/EL-CM.png",
     "Reinforcement Learning/Images/1EL-CM.png",
     "Reinforcement Learning/Images/CI-CM (Custom).png",
@@ -182,13 +168,10 @@
     "Reinforcement Learning/Images/level_3.png",
     "Reinforcement Learning/Images/level_2.png",
     "Reinforcement Learning/Images/level_1.png",
-    "Reinforcement Learning/Images/level_4.png",
     "Reinforcement Learning/Images/unity_game_board.png",
     "Reinforcement Learning/Paper Outline.md",
-    "Machine Learning/Paper/III. Methodology.md",
     "Reinforcement Learning/Images/CR-CM.png",
     "Reinforcement Learning/Images/CR-FM.png",
-    "Reinforcement Learning/Images/CI-FM.png",
     "Machine Learning/Paper/V. Conclusion.md",
     "Machine Learning/Paper/IV. Results and Analysis.md",
     "Machine Learning/Paper/II. Literature Review.md"
