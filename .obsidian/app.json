@@ -15,6 +15,10 @@
     "AUROC",
     "val",
     "Multiclass",
-    "lar A"
-  ]
+    "lar A",
+    "FastSLAM",
+    "RANSAC",
+    "LaneNet"
+  ],
+  "alwaysUpdateLinks": true
 }
