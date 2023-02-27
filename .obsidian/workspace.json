@@ -46,9 +46,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "da355da526c7ac05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vorlesungsplan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Autonomous Driving and Robotics/Paper/I. AFR Introduction.md"
+                "file": "Vorlesungsplan.md"
               }
             }
           },
@@ -135,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Autonomous Driving and Robotics/Paper/I. AFR Introduction.md",
+                "file": "Vorlesungsplan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Autonomous Driving and Robotics/Paper/I. AFR Introduction.md",
+                "file": "Vorlesungsplan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,11 +196,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c038e0e85be96e5f",
+  "active": "da355da526c7ac05",
   "lastOpenFiles": [
+    "Vorlesungsplan.md",
+    "Autonomous Driving and Robotics/Paper/I. AFR Introduction.md",
     "Autonomous Driving and Robotics/Paper/0. AFR Outline.md",
     "Machine Learning/Paper/I. ML Introduction.md",
-    "Autonomous Driving and Robotics/Paper/I. AFR Introduction.md",
     "Machine Learning/Paper/0. ML Outline.md",
     "Machine Learning/Paper/V. ML Conclusion.md",
     "Machine Learning/Paper/IV. ML Results and Analysis.md",
