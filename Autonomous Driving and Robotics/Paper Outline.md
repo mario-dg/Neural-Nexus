@@ -14,5 +14,38 @@ Empfohlene Struktur:
   - Kapitel 8:  Zusammenfassung, Bewertung, Ausblick
   - Anhang:  Selbständigkeitserklärung und Literaturverzeichnis
 
-1. Introduction
-	- 
+## Bing
+-   Chapter 1: Introduction
+    -   Motivation and objectives: Why is lane detection important for autonomous vehicles and what are the challenges and requirements?
+    -   Overview of the state of the art: What methods and algorithms exist for lane detection and how are they applied and evaluated?
+    -   Structure of the paper: How is the paper organized and what are the main points of each chapter?
+-   Chapter 2: Fundamentals (max. 1 page)
+    -   SAE levels: What are the different levels of automation of vehicles and what role does lane detection play in them?
+    -   Sensors: What sensors are used for lane detection and how do they work? (e.g. camera, lidar, radar)
+    -   Frameworks: What software frameworks are used for developing lane detection systems? (e.g. ROS, OpenCV)
+    -   Simulators: What simulators are used for testing and training lane detection systems? (e.g. CARLA, SUMO)
+    -   Examples or laws: What examples of real or planned applications of lane detection exist? (e.g. Tesla Autopilot, Waymo) What laws or standards regulate the use of lane detection? (e.g. ISO 26262)
+-   Chapter 3: Vehicle Kinematics (max. 1 page)
+    -   Basic concepts and models: What are the main concepts and models to describe the motion of a vehicle? (e.g. speed, acceleration, steering angle)
+    -   Dynamics and stability: How do different factors such as friction, gravity or side wind affect the dynamics and stability of a vehicle?
+    -   Control theory: How can one use feedback loops to control or optimize the behavior of a vehicle?
+-   Chapter 4: SLAM (max. 1 page)
+    -   Definition and objectives: What is SLAM (Simultaneous Localization and Mapping) and what are the objectives of this task?
+    -   Methods and algorithms: How can one use sensor data to create a map of the environment and simultaneously determine the position of the vehicle in it? (e.g. EKF-SLAM, FastSLAM)
+    -   Challenges and solutions: What difficulties arise when performing SLAM in dynamic environments such as road traffic? How can one overcome or minimize them? (e.g. Loop Closure Detection, Data Association)
+-   Chapter 5: Navigation/Path Planning (max. 1 page)
+-   Definition and objectives: What is navigation/path planning and what are the objectives of this task?
+-   Methods and algorithms: How can one use a map or other information to find an optimal or safe path from start to goal? (e.g. A*, Dijkstra, RRT)
+-   Challenges and solutions: What difficulties arise when navigating/path planning in complex environments such as road traffic? How can one account for or adapt to them? (e.g. uncertainty, obstacles, traffic rules)
+-   Chapter 6: Control Architectures (max. 1 page)
+    -   Methods and algorithms: How can one use a control architecture to coordinate or integrate different modules such as sensors, SLAM, navigation/path planning or actuators? (e.g. Hierarchical vs Flat vs Hybrid Architecture; Subsumption vs Deliberative vs Reactive Approach)
+    -   Challenges and solutions: What difficulties arise when developing or applying a control architecture for an autonomous vehicle system? How can one overcome or improve them? (e.g. scalability, robustness, flexibility)
+-   Chapter 7: Lane Detection (5-7 pages)
+    -   Definition and objectives: What is lane detection and what are the objectives of this task?
+    -   Methods and algorithms: How can one use sensor data to detect and track the lanes on the road? (e.g. Hough Transformation, RANSAC, CNN)
+    -   Presentation of selected articles: What articles have dealt with the topic of lane detection and what results or insights have they delivered? (e.g. Canny Edge Detection and Hough Transform for Lane Detection; End-to-End Deep Learning for Self-Driving Cars; LaneNet: Real-Time Lane Detection Networks for Autonomous Driving)
+    -   Own data: What own data have I collected or used for lane detection and how have I processed or analyzed them?
+-   Chapter 8: Conclusion, Evaluation, Outlook (5-7 pages)
+    -   Conclusion: What are the main points or findings from the paper?
+    -   Evaluation: How well or poorly do the presented methods or algorithms for lane detection work? What are their advantages and disadvantages?
+    -   Outlook: What are the open questions or challenges for future research or development in the field of lane detection?
