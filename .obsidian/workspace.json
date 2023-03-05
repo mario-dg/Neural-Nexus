@@ -46,21 +46,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "da355da526c7ac05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vorlesungsplan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vorlesungsplan.md"
+                "file": "Autonomous Driving and Robotics/Paper/I. AFR Introduction.md"
               }
             }
           },
@@ -147,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vorlesungsplan.md",
+                "file": "Autonomous Driving and Robotics/Paper/I. AFR Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vorlesungsplan.md",
+                "file": "Autonomous Driving and Robotics/Paper/I. AFR Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,11 +184,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da355da526c7ac05",
+  "active": "c038e0e85be96e5f",
   "lastOpenFiles": [
+    "Autonomous Driving and Robotics/Paper/0. AFR Outline.md",
     "Vorlesungsplan.md",
     "Autonomous Driving and Robotics/Paper/I. AFR Introduction.md",
-    "Autonomous Driving and Robotics/Paper/0. AFR Outline.md",
     "Machine Learning/Paper/I. ML Introduction.md",
     "Machine Learning/Paper/0. ML Outline.md",
     "Machine Learning/Paper/V. ML Conclusion.md",
