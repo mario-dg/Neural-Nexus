@@ -47,8 +47,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Autonomous Driving and Robotics/Paper/I. AFR Introduction.md"
+                "file": "Autonomous Driving and Robotics/Paper/0. AFR Outline.md"
               }
             }
           },
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Autonomous Driving and Robotics/Paper/I. AFR Introduction.md",
+                "file": "Autonomous Driving and Robotics/Paper/0. AFR Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Autonomous Driving and Robotics/Paper/I. AFR Introduction.md",
+                "file": "Autonomous Driving and Robotics/Paper/0. AFR Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,11 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c038e0e85be96e5f",
+  "active": "dc63c0f563643a09",
   "lastOpenFiles": [
+    "Autonomous Driving and Robotics/Paper/I. AFR Introduction.md",
     "Autonomous Driving and Robotics/Paper/0. AFR Outline.md",
     "Vorlesungsplan.md",
-    "Autonomous Driving and Robotics/Paper/I. AFR Introduction.md",
     "Machine Learning/Paper/I. ML Introduction.md",
     "Machine Learning/Paper/0. ML Outline.md",
     "Machine Learning/Paper/V. ML Conclusion.md",
