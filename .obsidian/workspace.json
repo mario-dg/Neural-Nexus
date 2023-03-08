@@ -10,55 +10,16 @@
           {
             "id": "dc63c0f563643a09",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Autonomous Driving and Robotics/Paper/0. AFR Outline.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "737b46464ac11dd8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
-          },
-          {
-            "id": "c038e0e85be96e5f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Autonomous Driving and Robotics/Paper/I. AFR Introduction.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "33ed81997bbac64e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Paper/I. ML Introduction.md",
+                "file": "VII. AFR Lane Detection.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Autonomous Driving and Robotics/Paper/0. AFR Outline.md"
+                "file": "VII. AFR Lane Detection.md"
               }
             }
           },
@@ -145,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Autonomous Driving and Robotics/Paper/0. AFR Outline.md",
+                "file": "VII. AFR Lane Detection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Autonomous Driving and Robotics/Paper/0. AFR Outline.md",
+                "file": "VII. AFR Lane Detection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,10 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "737b46464ac11dd8",
+  "active": "dc63c0f563643a09",
   "lastOpenFiles": [
-    "Autonomous Driving and Robotics/Paper/I. AFR Introduction.md",
     "Autonomous Driving and Robotics/Paper/0. AFR Outline.md",
+    "VII. AFR Lane Detection.md",
+    "Autonomous Driving and Robotics/Paper/I. AFR Introduction.md",
     "Vorlesungsplan.md",
     "Machine Learning/Paper/I. ML Introduction.md",
     "Machine Learning/Paper/0. ML Outline.md",
