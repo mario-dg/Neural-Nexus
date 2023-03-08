@@ -1,4 +1,4 @@
-State-of-the-Art Commercial Systems (Safety Driving Assistant):
+State-of-the-Art Commercial Systems (Safety Driving Assistant System - SDAS):
 - Lane Departure Warning System (LDWS) (SAE Level 1)
 	- Warning, when leaving lane
 - Lane Keeping Support (LKS) (SAE Level 2)
