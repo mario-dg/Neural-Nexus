@@ -22,6 +22,16 @@
             }
           },
           {
+            "id": "737b46464ac11dd8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          },
+          {
             "id": "c038e0e85be96e5f",
             "type": "leaf",
             "pinned": true,
@@ -47,7 +57,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,7 +194,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc63c0f563643a09",
+  "active": "737b46464ac11dd8",
   "lastOpenFiles": [
     "Autonomous Driving and Robotics/Paper/I. AFR Introduction.md",
     "Autonomous Driving and Robotics/Paper/0. AFR Outline.md",
