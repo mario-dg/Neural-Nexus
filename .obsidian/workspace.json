@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "285651210c0bb1c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Synthetic Microscopy/Unconditional Image Generation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Autonomous Driving and Robotics/Paper/VII. AFR Lane Detection.md"
+                "file": "Synthetic Microscopy/Unconditional Image Generation.md"
               }
             }
           },
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Autonomous Driving and Robotics/Paper/VII. AFR Lane Detection.md",
+                "file": "Synthetic Microscopy/Unconditional Image Generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Autonomous Driving and Robotics/Paper/VII. AFR Lane Detection.md",
+                "file": "Synthetic Microscopy/Unconditional Image Generation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,13 +168,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c00db1835bbd6b00",
+  "active": "198ec4090d24a385",
   "lastOpenFiles": [
+    "Autonomous Driving and Robotics/Paper/VII. AFR Lane Detection.md",
+    "Synthetic Microscopy/Unconditional Image Generation.md",
+    "Synthetic Microscopy",
     "conflict-files-obsidian-git.md",
     "Reinforcement Learning/Paper Outline.md",
     "Research Workshop 1/Paper/0. FW Outline.md",
     "Research Workshop 1/Paper",
-    "Autonomous Driving and Robotics/Paper/VII. AFR Lane Detection.md",
     "Machine Learning/Paper/V. ML Conclusion.md",
     "Machine Learning/Paper/IV. ML Results and Analysis.md",
     "Machine Learning/Paper/III. ML Methodology.md",
