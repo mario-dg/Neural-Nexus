@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7a5a0a678e756bcd",
+        "id": "912b1637ca0637ac",
         "type": "tabs",
         "children": [
           {
-            "id": "dc63c0f563643a09",
+            "id": "c00db1835bbd6b00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VII. AFR Lane Detection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3cb87d9aa746e524",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research Workshop 1/Paper/0. FW Outline.md",
+                "file": "Autonomous Driving and Robotics/Paper/VII. AFR Lane Detection.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research Workshop 1/Paper/0. FW Outline.md"
+                "file": "Autonomous Driving and Robotics/Paper/VII. AFR Lane Detection.md"
               }
             }
           },
@@ -119,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research Workshop 1/Paper/0. FW Outline.md",
+                "file": "Autonomous Driving and Robotics/Paper/VII. AFR Lane Detection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research Workshop 1/Paper/0. FW Outline.md",
+                "file": "Autonomous Driving and Robotics/Paper/VII. AFR Lane Detection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,33 +155,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3cb87d9aa746e524",
+  "active": "c00db1835bbd6b00",
   "lastOpenFiles": [
-    "VII. AFR Lane Detection.md",
+    "conflict-files-obsidian-git.md",
+    "Reinforcement Learning/Paper Outline.md",
     "Research Workshop 1/Paper/0. FW Outline.md",
     "Research Workshop 1/Paper",
-    "Autonomous Driving and Robotics/Paper/0. AFR Outline.md",
-    "Autonomous Driving and Robotics/Paper/I. AFR Introduction.md",
-    "Vorlesungsplan.md",
-    "Machine Learning/Paper/I. ML Introduction.md",
-    "Machine Learning/Paper/0. ML Outline.md",
+    "Autonomous Driving and Robotics/Paper/VII. AFR Lane Detection.md",
     "Machine Learning/Paper/V. ML Conclusion.md",
     "Machine Learning/Paper/IV. ML Results and Analysis.md",
     "Machine Learning/Paper/III. ML Methodology.md",
     "Machine Learning/Paper/II. ML Literature Review.md",
+    "Machine Learning/Paper/I. ML Introduction.md",
+    "Machine Learning/Paper/0. ML Outline.md",
+    "Autonomous Driving and Robotics/Paper/I. AFR Introduction.md",
+    "Autonomous Driving and Robotics/Paper/0. AFR Outline.md",
     "Autonomous Driving and Robotics/Paper",
-    "Reinforcement Learning/Paper Outline.md",
-    "Reinforcement Learning/Images/level_4.png",
-    "Reinforcement Learning/Images/EL-CM.png",
-    "Reinforcement Learning/Images/1EL-CM.png",
-    "Reinforcement Learning/Images/CI-CM (Custom).png",
-    "Reinforcement Learning/Images/level_3.png.~tmp",
-    "Reinforcement Learning/Images/level_2.png.~tmp",
-    "Reinforcement Learning/Images/level_3.png",
-    "Reinforcement Learning/Images/level_2.png",
-    "Reinforcement Learning/Images/level_1.png",
-    "Reinforcement Learning/Images/unity_game_board.png",
+    "Machine Learning/Paper/III. Methodology.md",
     "Reinforcement Learning/Images/CR-CM.png",
-    "Reinforcement Learning/Images/CR-FM.png"
+    "Reinforcement Learning/Images/CR-FM.png",
+    "Reinforcement Learning/Images/CI-FM.png",
+    "Reinforcement Learning/Images/CI-CM.png",
+    "Reinforcement Learning/Images/EL-FM.png",
+    "Reinforcement Learning/Images/EL-CM.png",
+    "Machine Learning/Paper/V. Conclusion.md",
+    "Machine Learning/Paper/IV. Results and Analysis.md",
+    "Machine Learning/Paper/II. Literature Review.md"
   ]
 }
