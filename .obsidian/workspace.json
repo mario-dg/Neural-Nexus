@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Synthetic Microscopy/Unconditional Image Generation.md"
+                "file": "Autonomous Driving and Robotics/Paper/VII. AFR Lane Detection.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Synthetic Microscopy/Unconditional Image Generation.md",
+                "file": "Autonomous Driving and Robotics/Paper/VII. AFR Lane Detection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Synthetic Microscopy/Unconditional Image Generation.md",
+                "file": "Autonomous Driving and Robotics/Paper/VII. AFR Lane Detection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
