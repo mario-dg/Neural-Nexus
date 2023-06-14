@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1a4208a732e2ba85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artificial Intelligence/Paper/0.1 AI Outline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Paper/0. AI Outline.md"
+                "file": "Artificial Intelligence/Paper/0.1 AI Outline.md"
               }
             }
           },
@@ -114,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Paper/0. AI Outline.md",
+                "file": "Artificial Intelligence/Paper/0.1 AI Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Paper/0. AI Outline.md",
+                "file": "Artificial Intelligence/Paper/0.1 AI Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,10 +176,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c00db1835bbd6b00",
+  "active": "1a4208a732e2ba85",
   "lastOpenFiles": [
-    "Artificial Intelligence/Paper/0. AI Notes.md",
+    "Untitled.md",
+    "Artificial Intelligence/Paper/0.1 AI Outline.md",
     "Artificial Intelligence/Paper/0. AI Outline.md",
+    "Artificial Intelligence/Paper/0. AI Notes.md",
     "Autonomous Driving and Robotics/Paper/VII. AFR Lane Detection.md",
     "Synthetic Microscopy/Unconditional Image Generation.md",
     "Synthetic Microscopy",
