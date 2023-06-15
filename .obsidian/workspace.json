@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Paper/0. AI Outline 2.md",
+                "file": "Artificial Intelligence/Paper/5. AI In-Depth Analysis - American Football.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60e093b59b98c8f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artificial Intelligence/Paper/4. AI Applications.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Paper/0. AI Outline 2.md"
+                "file": "Artificial Intelligence/Paper/4. AI Applications.md"
               }
             }
           },
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Paper/0. AI Outline 2.md",
+                "file": "Artificial Intelligence/Paper/4. AI Applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Paper/0. AI Outline 2.md",
+                "file": "Artificial Intelligence/Paper/4. AI Applications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,9 +180,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a2971c6cb4a6b1b",
+  "active": "60e093b59b98c8f9",
   "lastOpenFiles": [
-    "Artificial Intelligence/Paper/In-Depth Analysis - American Football.md",
+    "Artificial Intelligence/Paper/5. AI In-Depth Analysis - American Football.md",
+    "Artificial Intelligence/Paper/4. AI Applications.md",
     "Artificial Intelligence/Paper/0. AI Outline 2.md",
     "Artificial Intelligence/Paper/6. AI Challenges and Future Directions.md",
     "Predictive Analytics and Decision Support/Paper/0. PADS Ideas.md",
@@ -201,7 +214,6 @@
     "Machine Learning/Paper/I. ML Introduction.md",
     "Machine Learning/Paper/0. ML Outline.md",
     "Autonomous Driving and Robotics/Paper/I. AFR Introduction.md",
-    "Autonomous Driving and Robotics/Paper/0. AFR Outline.md",
     "Autonomous Driving and Robotics/Paper",
     "Reinforcement Learning/Images/CR-CM.png",
     "Reinforcement Learning/Images/CR-FM.png",
