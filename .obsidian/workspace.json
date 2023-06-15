@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "912b1637ca0637ac",
+        "id": "e98eff41dfd8e4fd",
         "type": "tabs",
         "children": [
           {
-            "id": "c00db1835bbd6b00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artificial Intelligence/Paper/0. AI Outline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a4208a732e2ba85",
+            "id": "88b74cd59d6db90f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,14 +62,6 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "c68f8dd1d302e95b",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
               "state": {}
             }
           }
@@ -176,13 +155,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a4208a732e2ba85",
+  "active": "88b74cd59d6db90f",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Artificial Intelligence/Paper/0.1 AI Outline.md",
     "Artificial Intelligence/Paper/0. AI Outline.md",
-    "Artificial Intelligence/Paper/0. AI Notes.md",
+    "Artificial Intelligence/Paper/0.1 AI Outline.md",
     "Autonomous Driving and Robotics/Paper/VII. AFR Lane Detection.md",
+    "Paper Summaries/Seasonal Linear Predictivity in National Football.md",
+    "Paper Summaries/Predicting the NFL using Twitter.md",
+    "Paper Summaries/Graph Neural Networks to Predict Sports Outcomes.md",
+    "Paper Summaries/Evaluating Sports Analytics Models - Challenges, Approaches, and Lessons Learned.md",
+    "Artificial Intelligence/Paper/0. AI Notes.md",
+    "Artificial Intelligence/Paper",
+    "Artificial Intelligence",
     "Synthetic Microscopy/Unconditional Image Generation.md",
     "Synthetic Microscopy",
     "conflict-files-obsidian-git.md",
