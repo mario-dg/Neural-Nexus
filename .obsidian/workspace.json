@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e98eff41dfd8e4fd",
+        "id": "bda53f30ab1866e4",
         "type": "tabs",
         "children": [
           {
-            "id": "88b74cd59d6db90f",
+            "id": "6b4256339d584495",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Paper/0.1 AI Outline.md",
+                "file": "Artificial Intelligence/Paper/0. AI Outline 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a2971c6cb4a6b1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artificial Intelligence/Paper/In-Depth Analysis - American Football.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Paper/0.1 AI Outline.md"
+                "file": "Artificial Intelligence/Paper/In-Depth Analysis - American Football.md"
               }
             }
           },
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Paper/0.1 AI Outline.md",
+                "file": "Artificial Intelligence/Paper/In-Depth Analysis - American Football.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Paper/0.1 AI Outline.md",
+                "file": "Artificial Intelligence/Paper/In-Depth Analysis - American Football.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,10 +168,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "88b74cd59d6db90f",
+  "active": "5a2971c6cb4a6b1b",
   "lastOpenFiles": [
+    "Artificial Intelligence/Paper/0. AI Outline 2.md",
+    "Artificial Intelligence/Paper/In-Depth Analysis - American Football.md",
+    "Artificial Intelligence/Paper/6. AI Challenges and Future Directions.md",
+    "Predictive Analytics and Decision Support/Paper/0. PADS Ideas.md",
+    "[.md",
+    "Predictive Analytics and Decision Support/Paper/Potential Drawbacks of XAI in Medical Image Analysis.md",
+    "Predictive Analytics and Decision Support/Paper/Challenges of XAI in Medical Image Analysis.md",
+    "Predictive Analytics and Decision Support/Paper",
+    "Predictive Analytics and Decision Support",
     "Artificial Intelligence/Paper/0. AI Outline.md",
-    "Artificial Intelligence/Paper/0.1 AI Outline.md",
     "Autonomous Driving and Robotics/Paper/VII. AFR Lane Detection.md",
     "Paper Summaries/Seasonal Linear Predictivity in National Football.md",
     "Paper Summaries/Predicting the NFL using Twitter.md",
@@ -182,15 +203,11 @@
     "Autonomous Driving and Robotics/Paper/I. AFR Introduction.md",
     "Autonomous Driving and Robotics/Paper/0. AFR Outline.md",
     "Autonomous Driving and Robotics/Paper",
-    "Machine Learning/Paper/III. Methodology.md",
     "Reinforcement Learning/Images/CR-CM.png",
     "Reinforcement Learning/Images/CR-FM.png",
     "Reinforcement Learning/Images/CI-FM.png",
     "Reinforcement Learning/Images/CI-CM.png",
     "Reinforcement Learning/Images/EL-FM.png",
-    "Reinforcement Learning/Images/EL-CM.png",
-    "Machine Learning/Paper/V. Conclusion.md",
-    "Machine Learning/Paper/IV. Results and Analysis.md",
-    "Machine Learning/Paper/II. Literature Review.md"
+    "Reinforcement Learning/Images/EL-CM.png"
   ]
 }
