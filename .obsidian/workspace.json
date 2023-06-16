@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Paper/5. AI In-Depth Analysis - American Football.md",
+                "file": "Artificial Intelligence/Paper/6. AI Challenges and Future Directions.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Paper/4. AI Applications.md"
+                "file": "Artificial Intelligence/Paper/0. AI Outline 2.md"
               }
             }
           },
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Paper/4. AI Applications.md",
+                "file": "Artificial Intelligence/Paper/0. AI Outline 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Paper/4. AI Applications.md",
+                "file": "Artificial Intelligence/Paper/0. AI Outline 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,12 +179,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60e093b59b98c8f9",
+  "active": "6b4256339d584495",
   "lastOpenFiles": [
+    "Artificial Intelligence/Paper/6. AI Challenges and Future Directions.md",
     "Artificial Intelligence/Paper/5. AI In-Depth Analysis - American Football.md",
     "Artificial Intelligence/Paper/4. AI Applications.md",
     "Artificial Intelligence/Paper/0. AI Outline 2.md",
-    "Artificial Intelligence/Paper/6. AI Challenges and Future Directions.md",
     "Predictive Analytics and Decision Support/Paper/0. PADS Ideas.md",
     "[.md",
     "Predictive Analytics and Decision Support/Paper/Potential Drawbacks of XAI in Medical Image Analysis.md",
