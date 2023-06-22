@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Predictive Analytics and Decision Support/Paper/0. PADS Outline.md",
+                "file": "Predictive Analytics and Decision Support/Paper/Scoring Systems Table.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Predictive Analytics and Decision Support/Paper/0. PADS Outline.md"
+                "file": "Predictive Analytics and Decision Support/Paper/Scoring Systems Table.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Predictive Analytics and Decision Support/Paper/0. PADS Outline.md",
+                "file": "Predictive Analytics and Decision Support/Paper/Scoring Systems Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Predictive Analytics and Decision Support/Paper/0. PADS Outline.md",
+                "file": "Predictive Analytics and Decision Support/Paper/Scoring Systems Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,8 +189,9 @@
   },
   "active": "6b4256339d584495",
   "lastOpenFiles": [
-    "Predictive Analytics and Decision Support/Paper/0. PADS Ideas.md",
     "Predictive Analytics and Decision Support/Paper/0. PADS Outline.md",
+    "Predictive Analytics and Decision Support/Paper/Scoring Systems Table.md",
+    "Predictive Analytics and Decision Support/Paper/0. PADS Ideas.md",
     "Predictive Analytics and Decision Support/Paper/Potential Drawbacks of XAI in Medical Image Analysis.md",
     "Predictive Analytics and Decision Support/Paper/Challenges of XAI in Medical Image Analysis.md",
     "Artificial Intelligence/Paper/0. AI Outline 2.md",
@@ -220,7 +221,6 @@
     "Machine Learning/Paper/III. ML Methodology.md",
     "Machine Learning/Paper/II. ML Literature Review.md",
     "Machine Learning/Paper/I. ML Introduction.md",
-    "Machine Learning/Paper/0. ML Outline.md",
     "Autonomous Driving and Robotics/Paper",
     "Reinforcement Learning/Images/CR-CM.png",
     "Reinforcement Learning/Images/CR-FM.png",
