@@ -1,8 +1,10 @@
 | Scoring System | Description | Parameters | Purpose | Application |
 |----------------|-------------|------------|---------|-------------|
-| REMS (Rapid Emergency Medicine Score) | A system that uses parameters directly related to prognosis and has been studied for its success in identifying critical patients and predicting mortality. | Vital signs, oxygen saturation, age, and level of consciousness | To identify critical patients and predict mortality | Emergency rooms |
-| RAPS (Rapid Acute Physiology Score) | Similar to REMS, RAPS is used for triage purposes in ERs and has been investigated for its ability to predict patient outcomes. | Vital signs, oxygen saturation, and level of consciousness | To predict patient outcomes and assist in triage decision-making | Emergency rooms |
-| MPM II_0 (Mortality Probability Model) | An intensive care scoring system that has been studied for its effectiveness in predicting short-term and long-term mortality in patients presenting to the ER. | Physiological variables, age, and comorbidities | To predict short-term and long-term mortality | Intensive care units and emergency rooms |
-| KTAS (Korean Triage Acuity Scale) | A mandatory scoring system in South Korea that has been studied for its potential in machine learning-based triage systems using speech recognition and natural language processing. | Vital signs, symptoms, and medical history | To assign patients to appropriate care levels and assist in triage decision-making | Emergency rooms in South Korea |
+| REMS (Rapid Emergency Medicine Score) | Prognosis-related system for identifying critical patients and predicting mortality. | Vital signs, oxygen saturation, age, and level of consciousness | Identify critical patients and predict mortality | Emergency rooms |
+| RAPS (Rapid Acute Physiology Score) | Triage system similar to REMS for predicting patient outcomes. | Vital signs, oxygen saturation, and level of consciousness | Predict patient outcomes and assist in triage | Emergency rooms |
+| MPM II_0 (Mortality Probability Model) | Intensive care scoring system for predicting short-term and long-term mortality. | Physiological variables, age, and comorbidities | Predict short-term and long-term mortality | Intensive care units and emergency rooms |
+| KTAS (Korean Triage Acuity Scale) | Mandatory scoring system in South Korea with potential for machine learning-based triage. | Vital signs, symptoms, and medical history | Assign patients to care levels and assist in triage | Emergency rooms in South Korea |
 
-This table provides an overview of the four scoring systems mentioned, including their descriptions, parameters, purposes, and applications. Each scoring system has its unique set of parameters and is designed to assist healthcare professionals in making triage decisions and predicting patient outcomes.
+The table has been updated with shortened descriptions and purposes for each scoring system, providing a concise overview of their main characteristics and applications.
+
+By Perplexity at https://www.perplexity.ai/search/75c55013-4ec4-41a3-a764-6b86750c8626
