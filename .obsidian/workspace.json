@@ -18,30 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5a2971c6cb4a6b1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artificial Intelligence/Paper/6. AI Challenges and Future Directions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60e093b59b98c8f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artificial Intelligence/Paper/4. AI Applications.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -187,17 +163,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b4256339d584495",
+  "active": "198ec4090d24a385",
   "lastOpenFiles": [
-    "Predictive Analytics and Decision Support/Paper/Scoring Systems Table.md",
+    "Predictive Analytics and Decision Support/Paper/Summary -.md",
+    "Artificial Intelligence/Paper/6. AI Challenges and Future Directions.md",
+    "Artificial Intelligence/Paper/4. AI Applications.md",
+    "Predictive Analytics and Decision Support/Paper/Summary - Assessment of Machine Learning–based Medical Directives to Expedite Care in Pediatric Emergency Medicine.md",
     "Predictive Analytics and Decision Support/Paper/0. PADS Outline.md",
+    "Predictive Analytics and Decision Support/Paper/Scoring Systems Table.md",
     "Predictive Analytics and Decision Support/Paper/0. PADS Ideas.md",
     "Predictive Analytics and Decision Support/Paper/Potential Drawbacks of XAI in Medical Image Analysis.md",
     "Predictive Analytics and Decision Support/Paper/Challenges of XAI in Medical Image Analysis.md",
     "Artificial Intelligence/Paper/0. AI Outline 2.md",
-    "Artificial Intelligence/Paper/6. AI Challenges and Future Directions.md",
     "Artificial Intelligence/Paper/5. AI In-Depth Analysis - American Football.md",
-    "Artificial Intelligence/Paper/4. AI Applications.md",
     "[.md",
     "Predictive Analytics and Decision Support/Paper",
     "Predictive Analytics and Decision Support",
@@ -219,8 +197,6 @@
     "Machine Learning/Paper/V. ML Conclusion.md",
     "Machine Learning/Paper/IV. ML Results and Analysis.md",
     "Machine Learning/Paper/III. ML Methodology.md",
-    "Machine Learning/Paper/II. ML Literature Review.md",
-    "Machine Learning/Paper/I. ML Introduction.md",
     "Autonomous Driving and Robotics/Paper",
     "Reinforcement Learning/Images/CR-CM.png",
     "Reinforcement Learning/Images/CR-FM.png",
