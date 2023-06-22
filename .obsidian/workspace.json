@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Predictive Analytics and Decision Support/Paper/Scoring Systems Table.md",
+                "file": "Predictive Analytics and Decision Support/Paper/0. PADS Outline.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Predictive Analytics and Decision Support/Paper/Scoring Systems Table.md"
+                "file": "Predictive Analytics and Decision Support/Paper/0. PADS Outline.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Predictive Analytics and Decision Support/Paper/Scoring Systems Table.md",
+                "file": "Predictive Analytics and Decision Support/Paper/0. PADS Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Predictive Analytics and Decision Support/Paper/Scoring Systems Table.md",
+                "file": "Predictive Analytics and Decision Support/Paper/0. PADS Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,8 +189,8 @@
   },
   "active": "6b4256339d584495",
   "lastOpenFiles": [
-    "Predictive Analytics and Decision Support/Paper/0. PADS Outline.md",
     "Predictive Analytics and Decision Support/Paper/Scoring Systems Table.md",
+    "Predictive Analytics and Decision Support/Paper/0. PADS Outline.md",
     "Predictive Analytics and Decision Support/Paper/0. PADS Ideas.md",
     "Predictive Analytics and Decision Support/Paper/Potential Drawbacks of XAI in Medical Image Analysis.md",
     "Predictive Analytics and Decision Support/Paper/Challenges of XAI in Medical Image Analysis.md",
