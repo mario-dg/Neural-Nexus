@@ -19,7 +19,8 @@
       "bottom": 0,
       "left": 0
     },
-    "emojiStyle": "none"
+    "emojiStyle": "none",
+    "iconInTabsEnabled": false
   },
   "Semester 1": "FasFolder",
   "Semester 1/AFR": "FasRobot",

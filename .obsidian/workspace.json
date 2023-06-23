@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Predictive Analytics and Decision Support/Paper/0. PADS Outline.md",
+                "file": "Predictive Analytics and Decision Support/Paper/Summary - Assessment of Machine Learning–based Medical Directives to Expedite Care in Pediatric Emergency Medicine.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Predictive Analytics and Decision Support/Paper/0. PADS Outline.md"
+                "file": "Predictive Analytics and Decision Support/Paper/Summary - Assessment of Machine Learning–based Medical Directives to Expedite Care in Pediatric Emergency Medicine.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Predictive Analytics and Decision Support/Paper/0. PADS Outline.md",
+                "file": "Predictive Analytics and Decision Support/Paper/Summary - Assessment of Machine Learning–based Medical Directives to Expedite Care in Pediatric Emergency Medicine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Predictive Analytics and Decision Support/Paper/0. PADS Outline.md",
+                "file": "Predictive Analytics and Decision Support/Paper/Summary - Assessment of Machine Learning–based Medical Directives to Expedite Care in Pediatric Emergency Medicine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,13 +163,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "198ec4090d24a385",
+  "active": "6b4256339d584495",
   "lastOpenFiles": [
     "Predictive Analytics and Decision Support/Paper/Summary -.md",
-    "Artificial Intelligence/Paper/6. AI Challenges and Future Directions.md",
-    "Artificial Intelligence/Paper/4. AI Applications.md",
     "Predictive Analytics and Decision Support/Paper/Summary - Assessment of Machine Learning–based Medical Directives to Expedite Care in Pediatric Emergency Medicine.md",
     "Predictive Analytics and Decision Support/Paper/0. PADS Outline.md",
+    "Artificial Intelligence/Paper/6. AI Challenges and Future Directions.md",
+    "Artificial Intelligence/Paper/4. AI Applications.md",
     "Predictive Analytics and Decision Support/Paper/Scoring Systems Table.md",
     "Predictive Analytics and Decision Support/Paper/0. PADS Ideas.md",
     "Predictive Analytics and Decision Support/Paper/Potential Drawbacks of XAI in Medical Image Analysis.md",
