@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Paper/0. ML Outline.md",
+                "file": "Distributed Systems/Paper/0. VAS Fee Calculation Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Paper/0. ML Outline.md"
+                "file": "Distributed Systems/Paper/0. VAS Fee Calculation Ideas.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Paper/0. ML Outline.md",
+                "file": "Distributed Systems/Paper/0. VAS Fee Calculation Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Paper/0. ML Outline.md",
+                "file": "Distributed Systems/Paper/0. VAS Fee Calculation Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,8 @@
   },
   "active": "c32b91efc36ee662",
   "lastOpenFiles": [
-    "Distributed Systems/Paper/0. VAS Outline.md",
+    "Machine Learning/Paper/0. ML Outline.md",
+    "Distributed Systems/Paper/0. VAS Fee Calculation Ideas.md",
     "Predictive Analytics and Decision Support/Paper/4. PADS Conclusion.md",
     "Distributed Systems/Paper",
     "Distributed Systems",
@@ -173,7 +174,6 @@
     "Predictive Analytics and Decision Support/Paper/Challenges of XAI in Medical Image Analysis.md",
     "Autonomous Driving and Robotics/Paper/0. AFR Outline.md",
     "Data Analytics/TODOs.md",
-    "Machine Learning/Paper/0. ML Outline.md",
     "Reinforcement Learning/Paper Outline.md",
     "Research Workshop 1/Paper/0. FW Outline.md",
     "Predictive Analytics and Decision Support/Paper/Summary - Assessment of Machine Learning–based Medical Directives to Expedite Care in Pediatric Emergency Medicine.md",
