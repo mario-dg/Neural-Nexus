@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distributed Systems/Paper/0. VAS Initial Research.md",
+                "file": "Machine Learning/Paper/0. ML Outline.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distributed Systems/Paper/0. VAS Initial Research.md"
+                "file": "Machine Learning/Paper/0. ML Outline.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distributed Systems/Paper/0. VAS Initial Research.md",
+                "file": "Machine Learning/Paper/0. ML Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distributed Systems/Paper/0. VAS Initial Research.md",
+                "file": "Machine Learning/Paper/0. ML Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,8 +165,8 @@
   },
   "active": "c32b91efc36ee662",
   "lastOpenFiles": [
+    "Distributed Systems/Paper/0. VAS Outline.md",
     "Predictive Analytics and Decision Support/Paper/4. PADS Conclusion.md",
-    "Distributed Systems/Paper/0. VAS Initial Research.md",
     "Distributed Systems/Paper",
     "Distributed Systems",
     "Predictive Analytics and Decision Support/Paper/0. PADS Outline.md",
