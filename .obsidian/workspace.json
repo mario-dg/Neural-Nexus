@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "1897a3435419005b",
+        "id": "c2895f2cafcbea8e",
         "type": "tabs",
         "children": [
           {
-            "id": "c32b91efc36ee662",
+            "id": "a5457c5b2aebc953",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distributed Systems/Paper/0. VAS Fee Calculation Ideas.md",
+                "file": "Base Project/Paper/0. BP Outline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83f20d8276d931db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Paper/0. ML Outline.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +78,7 @@
             }
           },
           {
-            "id": "383a42598d062bb8",
+            "id": "c68f8dd1d302e95b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 200
   },
   "right": {
     "id": "b23332167b549904",
@@ -104,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distributed Systems/Paper/0. VAS Fee Calculation Ideas.md"
+                "file": "Base Project/Paper/0. BP Outline.md"
               }
             }
           },
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distributed Systems/Paper/0. VAS Fee Calculation Ideas.md",
+                "file": "Base Project/Paper/0. BP Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distributed Systems/Paper/0. VAS Fee Calculation Ideas.md",
+                "file": "Base Project/Paper/0. BP Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,42 +175,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c32b91efc36ee662",
+  "active": "a5457c5b2aebc953",
   "lastOpenFiles": [
     "Machine Learning/Paper/0. ML Outline.md",
-    "Distributed Systems/Paper/0. VAS Fee Calculation Ideas.md",
-    "Predictive Analytics and Decision Support/Paper/4. PADS Conclusion.md",
-    "Distributed Systems/Paper",
-    "Distributed Systems",
-    "Predictive Analytics and Decision Support/Paper/0. PADS Outline.md",
-    "Predictive Analytics and Decision Support/Paper/Challenges of XAI in Medical Image Analysis.md",
-    "Autonomous Driving and Robotics/Paper/0. AFR Outline.md",
-    "Data Analytics/TODOs.md",
-    "Reinforcement Learning/Paper Outline.md",
-    "Research Workshop 1/Paper/0. FW Outline.md",
+    "Base Project/Paper/0. BP Outline.md",
+    "Synthetic Microscopy/Unconditional Image Generation.md",
+    "Base Project/Paper",
+    "Base Project/Paper.md",
+    "Base Project.md",
+    "Base Project",
+    "Artificial Intelligence/Paper/0. AI Outline.md",
+    "Artificial Intelligence/Paper/0.1 AI Outline.md",
     "Predictive Analytics and Decision Support/Paper/Summary - Assessment of Machine Learning–based Medical Directives to Expedite Care in Pediatric Emergency Medicine.md",
-    "Research Workshop 1/TODOs.md",
-    "Predictive Analytics and Decision Support/Paper/Summary -.md",
-    "Artificial Intelligence/Paper/6. AI Challenges and Future Directions.md",
-    "Artificial Intelligence/Paper/4. AI Applications.md",
     "Predictive Analytics and Decision Support/Paper/Scoring Systems Table.md",
-    "Predictive Analytics and Decision Support/Paper/0. PADS Ideas.md",
+    "Predictive Analytics and Decision Support/Paper/Challenges of XAI in Medical Image Analysis.md",
     "Predictive Analytics and Decision Support/Paper/Potential Drawbacks of XAI in Medical Image Analysis.md",
-    "Artificial Intelligence/Paper/0. AI Outline 2.md",
-    "Artificial Intelligence/Paper/5. AI In-Depth Analysis - American Football.md",
-    "[.md",
+    "Predictive Analytics and Decision Support/Paper/4. PADS Conclusion.md",
+    "Predictive Analytics and Decision Support/Paper/0. PADS Outline.md",
+    "Predictive Analytics and Decision Support/Paper/0. PADS Ideas.md",
     "Predictive Analytics and Decision Support/Paper",
     "Predictive Analytics and Decision Support",
-    "Artificial Intelligence/Paper/0. AI Outline.md",
+    "Distributed Systems/Paper/0. VAS Fee Calculation Ideas.md",
+    "Distributed Systems/Paper",
+    "Distributed Systems",
+    "Artificial Intelligence/Paper/6. AI Challenges and Future Directions.md",
+    "Artificial Intelligence/Paper/5. AI In-Depth Analysis - American Football.md",
+    "Artificial Intelligence/Paper/4. AI Applications.md",
+    "Artificial Intelligence/Paper/0. AI Outline 2.md",
+    "Artificial Intelligence/Paper/0. AI Notes.md",
     "Autonomous Driving and Robotics/Paper/VII. AFR Lane Detection.md",
-    "Paper Summaries/Seasonal Linear Predictivity in National Football.md",
-    "Paper Summaries/Predicting the NFL using Twitter.md",
-    "Paper Summaries/Graph Neural Networks to Predict Sports Outcomes.md",
-    "Paper Summaries/Evaluating Sports Analytics Models - Challenges, Approaches, and Lessons Learned.md",
-    "Artificial Intelligence/Paper",
-    "Artificial Intelligence",
     "Synthetic Microscopy",
+    "conflict-files-obsidian-git.md",
+    "Reinforcement Learning/Paper Outline.md",
+    "Research Workshop 1/Paper/0. FW Outline.md",
     "Research Workshop 1/Paper",
+    "Machine Learning/Paper/V. ML Conclusion.md",
+    "Machine Learning/Paper/IV. ML Results and Analysis.md",
     "Autonomous Driving and Robotics/Paper",
     "Reinforcement Learning/Images/CR-CM.png",
     "Reinforcement Learning/Images/CR-FM.png",
