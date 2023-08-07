@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c2895f2cafcbea8e",
+        "id": "a36891e172f984fb",
         "type": "tabs",
         "children": [
           {
-            "id": "a5457c5b2aebc953",
+            "id": "3875ce0c61a22761",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Base Project/Paper/0. BP Outline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83f20d8276d931db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Paper/0. ML Outline.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +66,7 @@
             }
           },
           {
-            "id": "c68f8dd1d302e95b",
+            "id": "383a42598d062bb8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -89,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 330.5
   },
   "right": {
     "id": "b23332167b549904",
@@ -175,43 +163,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5457c5b2aebc953",
+  "active": "3875ce0c61a22761",
   "lastOpenFiles": [
-    "Machine Learning/Paper/0. ML Outline.md",
-    "Base Project/Paper/0. BP Outline.md",
-    "Synthetic Microscopy/Unconditional Image Generation.md",
-    "Base Project/Paper",
-    "Base Project/Paper.md",
-    "Base Project.md",
-    "Base Project",
-    "Artificial Intelligence/Paper/0. AI Outline.md",
-    "Artificial Intelligence/Paper/0.1 AI Outline.md",
-    "Predictive Analytics and Decision Support/Paper/Summary - Assessment of Machine Learning–based Medical Directives to Expedite Care in Pediatric Emergency Medicine.md",
-    "Predictive Analytics and Decision Support/Paper/Scoring Systems Table.md",
-    "Predictive Analytics and Decision Support/Paper/Challenges of XAI in Medical Image Analysis.md",
-    "Predictive Analytics and Decision Support/Paper/Potential Drawbacks of XAI in Medical Image Analysis.md",
-    "Predictive Analytics and Decision Support/Paper/4. PADS Conclusion.md",
-    "Predictive Analytics and Decision Support/Paper/0. PADS Outline.md",
-    "Predictive Analytics and Decision Support/Paper/0. PADS Ideas.md",
-    "Predictive Analytics and Decision Support/Paper",
-    "Predictive Analytics and Decision Support",
     "Distributed Systems/Paper/0. VAS Fee Calculation Ideas.md",
+    "Base Project/Paper/0. BP Outline.md",
+    "Base Project/Paper",
+    "Base Project",
+    "Machine Learning/Paper/0. ML Outline.md",
+    "Predictive Analytics and Decision Support/Paper/4. PADS Conclusion.md",
     "Distributed Systems/Paper",
     "Distributed Systems",
-    "Artificial Intelligence/Paper/6. AI Challenges and Future Directions.md",
-    "Artificial Intelligence/Paper/5. AI In-Depth Analysis - American Football.md",
-    "Artificial Intelligence/Paper/4. AI Applications.md",
-    "Artificial Intelligence/Paper/0. AI Outline 2.md",
-    "Artificial Intelligence/Paper/0. AI Notes.md",
-    "Autonomous Driving and Robotics/Paper/VII. AFR Lane Detection.md",
-    "Synthetic Microscopy",
-    "conflict-files-obsidian-git.md",
+    "Predictive Analytics and Decision Support/Paper/0. PADS Outline.md",
+    "Predictive Analytics and Decision Support/Paper/Challenges of XAI in Medical Image Analysis.md",
+    "Autonomous Driving and Robotics/Paper/0. AFR Outline.md",
+    "Data Analytics/TODOs.md",
     "Reinforcement Learning/Paper Outline.md",
     "Research Workshop 1/Paper/0. FW Outline.md",
+    "Predictive Analytics and Decision Support/Paper/Summary - Assessment of Machine Learning–based Medical Directives to Expedite Care in Pediatric Emergency Medicine.md",
+    "Research Workshop 1/TODOs.md",
+    "Predictive Analytics and Decision Support/Paper/Summary -.md",
+    "Artificial Intelligence/Paper/6. AI Challenges and Future Directions.md",
+    "Artificial Intelligence/Paper/4. AI Applications.md",
+    "Predictive Analytics and Decision Support/Paper/Scoring Systems Table.md",
+    "Predictive Analytics and Decision Support/Paper/0. PADS Ideas.md",
+    "Predictive Analytics and Decision Support/Paper/Potential Drawbacks of XAI in Medical Image Analysis.md",
+    "Artificial Intelligence/Paper/0. AI Outline 2.md",
+    "Artificial Intelligence/Paper/5. AI In-Depth Analysis - American Football.md",
+    "[.md",
+    "Predictive Analytics and Decision Support/Paper",
+    "Predictive Analytics and Decision Support",
+    "Artificial Intelligence/Paper/0. AI Outline.md",
+    "Autonomous Driving and Robotics/Paper/VII. AFR Lane Detection.md",
+    "Paper Summaries/Seasonal Linear Predictivity in National Football.md",
+    "Paper Summaries/Predicting the NFL using Twitter.md",
+    "Paper Summaries/Graph Neural Networks to Predict Sports Outcomes.md",
+    "Artificial Intelligence/Paper",
+    "Artificial Intelligence",
+    "Synthetic Microscopy",
     "Research Workshop 1/Paper",
-    "Machine Learning/Paper/V. ML Conclusion.md",
-    "Machine Learning/Paper/IV. ML Results and Analysis.md",
-    "Autonomous Driving and Robotics/Paper",
     "Reinforcement Learning/Images/CR-CM.png",
     "Reinforcement Learning/Images/CR-FM.png",
     "Reinforcement Learning/Images/CI-FM.png",
