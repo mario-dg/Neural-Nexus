@@ -4,43 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "a36891e172f984fb",
+        "id": "69b0e96fdbd1c1ab",
         "type": "tabs",
         "children": [
           {
-            "id": "3875ce0c61a22761",
+            "id": "a917031d42389f87",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b6032623c34985bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base Project/Paper/0. BP Outline.md",
+                "file": "Software Architecture/Exam Summary.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "a8d96e41db786e53",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.7"
-              }
-            }
-          },
-          {
-            "id": "393082527c68f2dd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base Project/Paper/0. BP Outline.md"
+                "file": "Software Architecture/Exam Summary.md"
               }
             }
           },
@@ -135,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base Project/Paper/0. BP Outline.md",
+                "file": "Software Architecture/Exam Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base Project/Paper/0. BP Outline.md",
+                "file": "Software Architecture/Exam Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,10 +172,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "393082527c68f2dd",
+  "active": "b6032623c34985bf",
   "lastOpenFiles": [
-    "Distributed Systems/Paper/0. VAS Fee Calculation Ideas.md",
+    "Software Architecture/Exam Summary.md",
+    "Software Architecture",
     "Base Project/Paper/0. BP Outline.md",
+    "Distributed Systems/Paper/0. VAS Fee Calculation Ideas.md",
     "Base Project/Paper",
     "Base Project",
     "Machine Learning/Paper/0. ML Outline.md",
@@ -217,11 +207,9 @@
     "Autonomous Driving and Robotics/Paper/VII. AFR Lane Detection.md",
     "Paper Summaries/Seasonal Linear Predictivity in National Football.md",
     "Paper Summaries/Predicting the NFL using Twitter.md",
-    "Paper Summaries/Graph Neural Networks to Predict Sports Outcomes.md",
     "Artificial Intelligence/Paper",
     "Artificial Intelligence",
     "Synthetic Microscopy",
-    "Research Workshop 1/Paper",
     "Reinforcement Learning/Images/CR-CM.png",
     "Reinforcement Learning/Images/CR-FM.png",
     "Reinforcement Learning/Images/CI-FM.png",
