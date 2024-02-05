@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Architecture/Exam Summary.md",
+                "file": "Software Architecture/Domain-Driven-Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Architecture/Exam Summary.md"
+                "file": "Software Architecture/Domain-Driven-Design.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Architecture/Exam Summary.md",
+                "file": "Software Architecture/Domain-Driven-Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Architecture/Exam Summary.md",
+                "file": "Software Architecture/Domain-Driven-Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,8 +165,9 @@
   },
   "active": "b6032623c34985bf",
   "lastOpenFiles": [
-    "Software Architecture/C4-Methode zur Softwareentwicklung.md",
     "Software Architecture/Exam Summary.md",
+    "Software Architecture/Domain-Driven-Design.md",
+    "Software Architecture/C4-Methode zur Softwareentwicklung.md",
     "Pasted image 20240205095322.png",
     "Pasted image 20240205095806.png",
     "Software Architecture",
@@ -199,7 +200,6 @@
     "Predictive Analytics and Decision Support",
     "Artificial Intelligence/Paper/0. AI Outline.md",
     "Autonomous Driving and Robotics/Paper/VII. AFR Lane Detection.md",
-    "Paper Summaries/Seasonal Linear Predictivity in National Football.md",
     "Artificial Intelligence/Paper",
     "Artificial Intelligence",
     "Synthetic Microscopy",
