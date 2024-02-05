@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a917031d42389f87",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "b6032623c34985bf",
             "type": "leaf",
             "state": {
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,8 +165,10 @@
   },
   "active": "b6032623c34985bf",
   "lastOpenFiles": [
-    "Pasted image 20240205095322.png",
+    "Software Architecture/C4-Methode zur Softwareentwicklung.md",
     "Software Architecture/Exam Summary.md",
+    "Pasted image 20240205095322.png",
+    "Pasted image 20240205095806.png",
     "Software Architecture",
     "Base Project/Paper/0. BP Outline.md",
     "Distributed Systems/Paper/0. VAS Fee Calculation Ideas.md",
