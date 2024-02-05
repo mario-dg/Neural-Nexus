@@ -18,8 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a8d96e41db786e53",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
+          },
+          {
+            "id": "393082527c68f2dd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,7 +184,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3875ce0c61a22761",
+  "active": "393082527c68f2dd",
   "lastOpenFiles": [
     "Distributed Systems/Paper/0. VAS Fee Calculation Ideas.md",
     "Base Project/Paper/0. BP Outline.md",
