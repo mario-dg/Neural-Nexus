@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Architecture/Domain-Driven-Design.md",
+                "file": "Software Architecture/Exam Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 330.5,
+    "collapsed": true
   },
   "right": {
     "id": "b23332167b549904",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Architecture/Domain-Driven-Design.md"
+                "file": "Software Architecture/Exam Summary.md"
               }
             }
           },
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Architecture/Domain-Driven-Design.md",
+                "file": "Software Architecture/Exam Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Architecture/Domain-Driven-Design.md",
+                "file": "Software Architecture/Exam Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,8 +166,8 @@
   },
   "active": "b6032623c34985bf",
   "lastOpenFiles": [
-    "Software Architecture/Exam Summary.md",
     "Software Architecture/Domain-Driven-Design.md",
+    "Software Architecture/Exam Summary.md",
     "Software Architecture/C4-Methode zur Softwareentwicklung.md",
     "Pasted image 20240205095322.png",
     "Pasted image 20240205095806.png",
