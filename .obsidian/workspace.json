@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Risk Models and Analysis/A Systematic Risk Assessment Framework of Automotive Cybersecurity - Summary.md",
+                "file": "Risk Models and Analysis/test.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Risk Models and Analysis/A Systematic Risk Assessment Framework of Automotive Cybersecurity - Summary.md"
+                "file": "Risk Models and Analysis/test.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Risk Models and Analysis/A Systematic Risk Assessment Framework of Automotive Cybersecurity - Summary.md",
+                "file": "Risk Models and Analysis/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Risk Models and Analysis/A Systematic Risk Assessment Framework of Automotive Cybersecurity - Summary.md",
+                "file": "Risk Models and Analysis/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,13 +165,14 @@
   },
   "active": "890cadf03623d789",
   "lastOpenFiles": [
+    "Risk Models and Analysis/A Systematic Risk Assessment Framework of Automotive Cybersecurity - Summary.md",
+    "Risk Models and Analysis/test.md",
     "Risk Models and Analysis/Lecture Summaries/Lecture 6.md",
     "Risk Models and Analysis/Lecture Summaries/Lecture 5.md",
     "Risk Models and Analysis/Lecture Summaries/Lecture 4.md",
     "Risk Models and Analysis/Lecture Summaries/Lecture 3.md",
     "Risk Models and Analysis/Lecture Summaries/Lecture 2.md",
     "Risk Models and Analysis/Lecture Summaries/Lecture 1.md",
-    "Risk Models and Analysis/A Systematic Risk Assessment Framework of Automotive Cybersecurity - Summary.md",
     "Risk Models and Analysis/Lecture Summaries",
     "Risk Models and Analysis/Framework.png",
     "Risk Models and Analysis",
@@ -200,7 +201,6 @@
     "Predictive Analytics and Decision Support/Paper/Summary -.md",
     "Artificial Intelligence/Paper/6. AI Challenges and Future Directions.md",
     "Artificial Intelligence/Paper/4. AI Applications.md",
-    "Predictive Analytics and Decision Support/Paper/Scoring Systems Table.md",
     "Predictive Analytics and Decision Support/Paper",
     "Predictive Analytics and Decision Support",
     "Artificial Intelligence/Paper",
