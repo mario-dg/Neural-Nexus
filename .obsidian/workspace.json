@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c2895f2cafcbea8e",
+        "id": "ea123a0c4cc1bb5f",
         "type": "tabs",
         "children": [
           {
-            "id": "a5457c5b2aebc953",
+            "id": "6a204ce1355e7ae5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base Project/Paper/0. BP Outline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83f20d8276d931db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Paper/0. ML Outline.md",
+                "file": "Risk Models and Analysis/A Systematic Risk Assessment Framework of Automotive Cybersecurity - Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base Project/Paper/0. BP Outline.md"
+                "file": "Risk Models and Analysis/A Systematic Risk Assessment Framework of Automotive Cybersecurity - Summary.md"
               }
             }
           },
@@ -126,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base Project/Paper/0. BP Outline.md",
+                "file": "Risk Models and Analysis/A Systematic Risk Assessment Framework of Automotive Cybersecurity - Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base Project/Paper/0. BP Outline.md",
+                "file": "Risk Models and Analysis/A Systematic Risk Assessment Framework of Automotive Cybersecurity - Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,13 +163,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5457c5b2aebc953",
+  "active": "6a204ce1355e7ae5",
   "lastOpenFiles": [
+    "Risk Models and Analysis/test.md",
+    "Machine Learning/Paper/0. ML Outline.md",
+    "Base Project/Paper/0. BP Outline.md",
     "Software Architecture/Exam Summary.md",
     "Software Architecture/Domain-Driven-Design.md",
     "Software Architecture/C4-Methode zur Softwareentwicklung.md",
     "Software Architecture",
-    "Risk Models and Analysis/test.md",
     "Risk Models and Analysis/Lecture Summaries/Lecture 6.md",
     "Risk Models and Analysis/Lecture Summaries/Lecture 5.md",
     "Risk Models and Analysis/Lecture Summaries/Lecture 4.md",
@@ -192,8 +182,6 @@
     "Risk Models and Analysis/Framework.png",
     "Risk Models and Analysis/A Systematic Risk Assessment Framework of Automotive Cybersecurity - Summary.md",
     "Risk Models and Analysis",
-    "Machine Learning/Paper/0. ML Outline.md",
-    "Base Project/Paper/0. BP Outline.md",
     "Synthetic Microscopy/Unconditional Image Generation.md",
     "Base Project/Paper",
     "Base Project/Paper.md",

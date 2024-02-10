@@ -1,5 +1,17 @@
 https://doi.org/10.1007/s42154-021-00140-6
 Yunpeng Wang, Yinghui Wang, Hongmao Qin, Haojie Ji, Yanan Zhang, Jian Wang
+
+## General Paper Summary
+The paper presents a systematic risk assessment framework for automotive cybersecurity, emphasizing the need for comprehensive analysis throughout the vehicle's lifecycle due to evolving cyber threats. Key components include:
+
+- **Introduction to Automotive Cybersecurity Challenges**: Recognizes the complexity and connectivity of modern vehicles, increasing vulnerability to cyber-attacks, and the importance of cybersecurity risk assessments.
+- **Survey on Existing Risk Assessment Methods**: Discusses methods like STRIDE, CVSS, OWASP, and their application in automotive security, highlighting the gaps in current approaches.
+- **Systematic Risk Assessment Framework**: Proposes a new framework consisting of risk identification, analysis, and assessment phases, leveraging STRIDE and attack trees for detailed threat evaluation and introducing a novel automotive cybersecurity risk matrix for quantifying risks.
+- **Application of the Framework**: Demonstrates the framework's effectiveness through a case study on a Telematics Box (T-Box), showcasing how the proposed method systematically addresses cybersecurity threats.
+- **Conclusion**: Affirms the framework's utility in identifying, analyzing, and assessing cybersecurity risks across the vehicle lifecycle, providing a foundation for future research and enhancement of automotive cybersecurity measures.
+
+This framework incorporates specific processes and methods to effectively analyze potential attack paths, integrating changes in threat environments and available information, thereby offering a comprehensive approach to automotive cybersecurity risk assessment.
+
 ## Framework Description
 ![[Framework.png]]
 #### 1. Risk Identification:
@@ -24,21 +36,10 @@ Yunpeng Wang, Yinghui Wang, Hongmao Qin, Haojie Ji, Yanan Zhang, Jian Wang
 - **Global Rating Algorithm:** An algorithm that takes various factors into account to provide a global risk rating.
 - **Risk Level:** The final determination of risk level, which could be low, medium, or high based on the aggregated data.
 
-## General Paper Summary
-The paper presents a systematic risk assessment framework for automotive cybersecurity, emphasizing the need for comprehensive analysis throughout the vehicle's lifecycle due to evolving cyber threats. Key components include:
-
-- **Introduction to Automotive Cybersecurity Challenges**: Recognizes the complexity and connectivity of modern vehicles, increasing vulnerability to cyber-attacks, and the importance of cybersecurity risk assessments.
-- **Survey on Existing Risk Assessment Methods**: Discusses methods like STRIDE, CVSS, OWASP, and their application in automotive security, highlighting the gaps in current approaches.
-- **Systematic Risk Assessment Framework**: Proposes a new framework consisting of risk identification, analysis, and assessment phases, leveraging STRIDE and attack trees for detailed threat evaluation and introducing a novel automotive cybersecurity risk matrix for quantifying risks.
-- **Application of the Framework**: Demonstrates the framework's effectiveness through a case study on a Telematics Box (T-Box), showcasing how the proposed method systematically addresses cybersecurity threats.
-- **Conclusion**: Affirms the framework's utility in identifying, analyzing, and assessing cybersecurity risks across the vehicle lifecycle, providing a foundation for future research and enhancement of automotive cybersecurity measures.
-
-This framework incorporates specific processes and methods to effectively analyze potential attack paths, integrating changes in threat environments and available information, thereby offering a comprehensive approach to automotive cybersecurity risk assessment.
-
 ## Shortcomings of Existing Risk Assessment Frameworks as mentioned in the Paper
 Based on the survey of existing risk assessment methods within the paper, the methods are grouped according to the specific methodologies they use, such as STRIDE, CVSS, OWASP, EVITA, and a combination of EVITA with other methods. Here's a detailed summary of the mentioned papers, categorized by the risk assessment methods used, along with their shortcomings and gaps:
 
-#### STRIDE Methodhttps://doi.org/10.1007/s42154-021-00140-6
+#### STRIDE Method
 - Focus shifts from identifying specific attacks to the outcomes of potential attacks, requiring less cybersecurity expertise. However, it lacks depth in threat analysis and does not cover all aspects of attack possibility or impact parameters.
 - In automotive applications, the STRIDE model was integrated with hazard analysis and risk assessment, considering cyberattack goals related to safety use cases. However, it only considered knowledge, tools, and threat criticality, omitting other attack possibilities or impact parameters.
 #### CVSS (Common Vulnerability Scoring System)
@@ -59,7 +60,7 @@ Based on the survey of existing risk assessment methods within the paper, the me
 This survey illustrates that while numerous methodologies offer frameworks for assessing automotive cybersecurity risks, they often lack comprehensiveness, adaptability to the automotive context, or the ability to address the entire vehicle lifecycle. These gaps highlight the need for more holistic and adaptable frameworks, such as the one proposed in the paper, which aims to cover these deficiencies.
 
 ## Example Usage of the Proposed Framework
-Chapter 4 of the paper, "Risk Assessment Application," details a practical application of the proposed systematic risk assessment framework through a case study on a Telematics Box (T-Box), a critical component of automotive network connections. Here's a comprehensive summary focusing on the assessment process:
+Chapter 4 of the paper details a practical application of the proposed systematic risk assessment framework through a case study on a Telematics Box (T-Box), a critical component of automotive network connections. Here's a comprehensive summary focusing on the assessment process:
 
 #### Telematics Box (T-Box) Overview 
   - It's a key device in automotive network systems, integrating various communication modules (MCU/CPU, GPS, 3G/4G, Wi-Fi, Bluetooth) to connect vehicle networks with external networks via cloud platforms.
