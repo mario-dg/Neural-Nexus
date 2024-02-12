@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b23332167b549904",
@@ -164,7 +163,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a204ce1355e7ae5",
+  "active": "198ec4090d24a385",
   "lastOpenFiles": [
     "Pasted image 20240211121702.png",
     "Risk Models and Analysis/Framework.png",
