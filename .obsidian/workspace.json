@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Project/Paper/3. MP Dreambooth.md",
+                "file": "Main Project/Paper/2. MP Background and Related Work.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main Project/Paper/3. MP Dreambooth.md"
+                "file": "Main Project/Paper/2. MP Background and Related Work.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Project/Paper/3. MP Dreambooth.md",
+                "file": "Main Project/Paper/2. MP Background and Related Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Project/Paper/3. MP Dreambooth.md",
+                "file": "Main Project/Paper/2. MP Background and Related Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,10 @@
   "active": "6a204ce1355e7ae5",
   "lastOpenFiles": [
     "Main Project/Paper/0. MP Outline.md",
+    "Main Project/Paper/2. MP Background and Related Work.md",
     "Main Project/Paper/3. MP Dreambooth.md",
+    "Main Project/Paper/dreambooth-process.png",
+    "Main Project/Paper/high-level.png",
     "Main Project/Paper/1. MP Introduction.md",
     "Machine Learning/Paper/I. ML Introduction.md",
     "Base Project/Paper/0. BP Outline.md",
@@ -199,7 +202,6 @@
     "Predictive Analytics and Decision Support/Paper/Summary - Assessment of Machine Learning–based Medical Directives to Expedite Care in Pediatric Emergency Medicine.md",
     "Predictive Analytics and Decision Support/Paper/Scoring Systems Table.md",
     "Predictive Analytics and Decision Support/Paper/Challenges of XAI in Medical Image Analysis.md",
-    "Predictive Analytics and Decision Support/Paper/Potential Drawbacks of XAI in Medical Image Analysis.md",
     "Predictive Analytics and Decision Support/Paper",
     "Predictive Analytics and Decision Support",
     "Distributed Systems/Paper",
