@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Project/Paper/2. MP Background and Related Work.md",
+                "file": "Main Project/Paper/3. MP Dreambooth.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main Project/Paper/2. MP Background and Related Work.md"
+                "file": "Main Project/Paper/3. MP Dreambooth.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Project/Paper/2. MP Background and Related Work.md",
+                "file": "Main Project/Paper/3. MP Dreambooth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Project/Paper/2. MP Background and Related Work.md",
+                "file": "Main Project/Paper/3. MP Dreambooth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,10 +165,10 @@
   },
   "active": "6a204ce1355e7ae5",
   "lastOpenFiles": [
-    "Main Project/Paper/3. MP Dreambooth.md",
-    "Main Project/Paper/1. MP Introduction.md",
     "Main Project/Paper/2. MP Background and Related Work.md",
+    "Main Project/Paper/1. MP Introduction.md",
     "Main Project/Paper/0. MP Outline.md",
+    "Main Project/Paper/3. MP Dreambooth.md",
     "Main Project/Paper/dreambooth-process.png",
     "Main Project/Paper/high-level.png",
     "Machine Learning/Paper/I. ML Introduction.md",
