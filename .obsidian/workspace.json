@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Risk Models and Analysis/A Systematic Risk Assessment Framework of Automotive Cybersecurity - Summary.md",
+                "file": "Main Project/Paper/3. MP Dreambooth.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Risk Models and Analysis/A Systematic Risk Assessment Framework of Automotive Cybersecurity - Summary.md"
+                "file": "Main Project/Paper/3. MP Dreambooth.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Risk Models and Analysis/A Systematic Risk Assessment Framework of Automotive Cybersecurity - Summary.md",
+                "file": "Main Project/Paper/3. MP Dreambooth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Risk Models and Analysis/A Systematic Risk Assessment Framework of Automotive Cybersecurity - Summary.md",
+                "file": "Main Project/Paper/3. MP Dreambooth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,14 +163,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "198ec4090d24a385",
+  "active": "6a204ce1355e7ae5",
   "lastOpenFiles": [
+    "Main Project/Paper/0. MP Outline.md",
+    "Main Project/Paper/3. MP Dreambooth.md",
+    "Main Project/Paper/1. MP Introduction.md",
+    "Machine Learning/Paper/I. ML Introduction.md",
+    "Base Project/Paper/0. BP Outline.md",
+    "Risk Models and Analysis/A Systematic Risk Assessment Framework of Automotive Cybersecurity - Summary.md",
+    "Main Project/Paper",
+    "Main Project",
     "Pasted image 20240211121702.png",
     "Risk Models and Analysis/Framework.png",
-    "Risk Models and Analysis/A Systematic Risk Assessment Framework of Automotive Cybersecurity - Summary.md",
     "Risk Models and Analysis/test.md",
     "Machine Learning/Paper/0. ML Outline.md",
-    "Base Project/Paper/0. BP Outline.md",
     "Software Architecture/Exam Summary.md",
     "Software Architecture/Domain-Driven-Design.md",
     "Software Architecture/C4-Methode zur Softwareentwicklung.md",
@@ -194,14 +200,9 @@
     "Predictive Analytics and Decision Support/Paper/Scoring Systems Table.md",
     "Predictive Analytics and Decision Support/Paper/Challenges of XAI in Medical Image Analysis.md",
     "Predictive Analytics and Decision Support/Paper/Potential Drawbacks of XAI in Medical Image Analysis.md",
-    "Predictive Analytics and Decision Support/Paper/4. PADS Conclusion.md",
-    "Predictive Analytics and Decision Support/Paper/0. PADS Outline.md",
-    "Predictive Analytics and Decision Support/Paper/0. PADS Ideas.md",
     "Predictive Analytics and Decision Support/Paper",
     "Predictive Analytics and Decision Support",
     "Distributed Systems/Paper",
-    "Distributed Systems",
-    "Synthetic Microscopy",
     "Reinforcement Learning/Images/CR-CM.png",
     "Reinforcement Learning/Images/CR-FM.png",
     "Reinforcement Learning/Images/CI-FM.png",
