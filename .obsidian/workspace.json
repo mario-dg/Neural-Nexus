@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d190349eb5539e42",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,7 +174,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a204ce1355e7ae5",
+  "active": "d190349eb5539e42",
   "lastOpenFiles": [
     "Main Project/Paper/2. MP Background and Related Work.md",
     "Main Project/Paper/1. MP Introduction.md",
